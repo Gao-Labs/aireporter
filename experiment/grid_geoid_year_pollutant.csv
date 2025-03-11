@@ -1,0 +1,103 @@
+state,geoid,county,year,pollutant,report_id
+Alabama Counties,01021,"Chilton County, AL",2040,87,079435189
+Alabama Counties,01085,"Lowndes County, AL",2055,110,014025109
+Alaska Counties,02063,"Chugach Census Area, AK",2030,98,071873835
+Alaska Counties,02220,"Sitka City and Borough, AK",2025,100,060660117
+Arizona Counties,04015,"Mohave County, AZ",2050,31,036973064
+Arizona Counties,04013,"Maricopa County, AZ",2000,2,064808667
+Arkansas Counties,05139,"Union County, AR",2040,110,094391347
+Arkansas Counties,05123,"St. Francis County, AR",2030,31,033092998
+California Counties,06073,"San Diego County, CA",2045,98,013159199
+California Counties,06039,"Madera County, CA",2045,100,033607156
+Colorado Counties,08083,"Montezuma County, CO",2040,3,014551614
+Colorado Counties,08101,"Pueblo County, CO",2050,2,068725969
+Connecticut Counties,09015,"Windham County, CT",2060,110,073454765
+Connecticut Counties,09003,"Hartford County, CT",2030,100,029480461
+Delaware Counties,10003,"New Castle County, DE",2035,31,007888765
+Delaware Counties,10003,"New Castle County, DE",2030,3,052145757
+District of Columbia,11001,"District of Columbia, District of Columbia County, DC",2015,2,074439617
+District of Columbia,11001,"District of Columbia, District of Columbia County, DC",2060,110,091377691
+Florida Counties,12069,"Lake County, FL",2045,87,066174761
+Florida Counties,12009,"Brevard County, FL",2025,2,013706429
+Georgia Counties,13255,"Spalding County, GA",2045,31,061574953
+Georgia Counties,13291,"Union County, GA",2035,87,039675323
+Hawaii Counties,15005,"Kalawao County, HI",2030,3,002511588
+Hawaii Counties,15009,"Maui County, HI",2005,110,016746607
+Idaho Counties,16083,"Twin Falls County, ID",2055,87,037912753
+Idaho Counties,16029,"Caribou County, ID",2050,2,062006933
+Illinois Counties,17157,"Randolph County, IL",2035,110,040546965
+Illinois Counties,17193,"White County, IL",2015,100,000360339
+Indiana Counties,18149,"Starke County, IN",2010,31,055799505
+Indiana Counties,18029,"Dearborn County, IN",2055,87,015064653
+Iowa Counties,19021,"Buena Vista County, IA",2010,31,018566605
+Iowa Counties,19133,"Monona County, IA",2055,3,002856560
+Kansas Counties,20103,"Leavenworth County, KS",2045,31,075927406
+Kansas Counties,20011,"Bourbon County, KS",2050,98,064421715
+Kentucky Counties,21063,"Elliott County, KY",2010,110,016088968
+Kentucky Counties,21053,"Clinton County, KY",2030,100,035731386
+Louisiana Counties,22063,"Livingston Parish, LA",2010,31,003665618
+Louisiana Counties,22041,"Franklin Parish, LA",2015,87,015264286
+Maine Counties,23019,"Penobscot County, ME",2040,87,096081223
+Maine Counties,23017,"Oxford County, ME",2035,98,052787507
+Maryland Counties,24041,"Talbot County, MD",2025,87,074402316
+Maryland Counties,24013,"Carroll County, MD",2005,100,053490133
+Massachusetts Counties,25001,"Barnstable County, MA",2020,98,047024373
+Massachusetts Counties,25017,"Middlesex County, MA",2010,98,035441964
+Michigan Counties,26055,"Grand Traverse County, MI",2040,100,075806108
+Michigan Counties,26145,"Saginaw County, MI",2060,3,037326793
+Minnesota Counties,27037,"Dakota County, MN",2055,3,050440919
+Minnesota Counties,27055,"Houston County, MN",2030,110,098321597
+Mississippi Counties,28071,"Lafayette County, MS",2050,2,002307090
+Mississippi Counties,28097,"Montgomery County, MS",2035,87,018012464
+Missouri Counties,29071,"Franklin County, MO",2025,2,034304779
+Missouri Counties,29041,"Chariton County, MO",2030,110,002148714
+Montana Counties,30021,"Dawson County, MT",2055,110,012732101
+Montana Counties,30047,"Lake County, MT",2005,110,046695752
+Nebraska Counties,31109,"Lancaster County, NE",2050,100,033046045
+Nebraska Counties,31185,"York County, NE",2035,31,010989810
+Nevada Counties,32003,"Clark County, NV",2060,87,064202194
+Nevada Counties,32009,"Esmeralda County, NV",2060,2,028160345
+New Hampshire Counties,33013,"Merrimack County, NH",2005,98,016851921
+New Hampshire Counties,33009,"Grafton County, NH",2035,110,079985524
+New Jersey Counties,34013,"Essex County, NJ",2040,2,076990284
+New Jersey Counties,34035,"Somerset County, NJ",2010,2,086881088
+New Mexico Counties,35039,"Rio Arriba County, NM",2030,98,044385293
+New Mexico Counties,35049,"Santa Fe County, NM",2005,100,035374833
+New York Counties,36123,"Yates County, NY",2060,2,021923668
+New York Counties,36077,"Otsego County, NY",2035,100,024535903
+North Carolina Counties,37013,"Beaufort County, NC",2055,110,053313359
+North Carolina Counties,37085,"Harnett County, NC",2010,3,072016986
+North Dakota Counties,38045,"LaMoure County, ND",2055,2,062037840
+North Dakota Counties,38005,"Benson County, ND",2045,31,005080543
+Ohio Counties,39051,"Fulton County, OH",2005,31,099527282
+Ohio Counties,39121,"Noble County, OH",2030,100,041429266
+Oklahoma Counties,40115,"Ottawa County, OK",2005,31,035455159
+Oklahoma Counties,40135,"Sequoyah County, OK",2015,3,006083496
+Oregon Counties,41035,"Klamath County, OR",2005,100,089325520
+Oregon Counties,41037,"Lake County, OR",2045,3,002742305
+Pennsylvania Counties,42111,"Somerset County, PA",2060,31,069879265
+Pennsylvania Counties,42085,"Mercer County, PA",2060,98,084491860
+Rhode Island Counties,44005,"Newport County, RI",2010,3,047162944
+Rhode Island Counties,44009,"Washington County, RI",2005,3,012227067
+South Carolina Counties,45013,"Beaufort County, SC",2045,110,069655270
+South Carolina Counties,45069,"Marlboro County, SC",2035,98,078446302
+South Dakota Counties,46065,"Hughes County, SD",2040,100,016372474
+South Dakota Counties,46117,"Stanley County, SD",2010,100,098705006
+Tennessee Counties,47099,"Lawrence County, TN",2055,98,018145960
+Tennessee Counties,47109,"McNairy County, TN",2050,3,013506636
+Texas Counties,48009,"Archer County, TX",2030,31,058109463
+Texas Counties,48225,"Houston County, TX",2010,100,069230375
+Utah Counties,49025,"Kane County, UT",2060,3,067122908
+Utah Counties,49011,"Davis County, UT",2020,87,012046576
+Vermont Counties,50005,"Caledonia County, VT",2040,3,095376567
+Vermont Counties,50025,"Windham County, VT",2055,2,036862437
+Virginia Counties,51580,"Covington city, Virginia County, VA",2015,3,075624175
+Virginia Counties,51510,"Alexandria city, Virginia County, VA",2045,2,087668256
+Washington Counties,53011,"Clark County, WA",2050,110,075172891
+Washington Counties,53005,"Benton County, WA",2050,3,089713177
+West Virginia Counties,54023,"Grant County, WV",2045,87,016043533
+West Virginia Counties,54021,"Gilmer County, WV",2040,87,040365956
+Wisconsin Counties,55089,"Ozaukee County, WI",2000,2,051271176
+Wisconsin Counties,55017,"Chippewa County, WI",2040,87,026083862
+Wyoming Counties,56005,"Campbell County, WY",2025,100,040610971
+Wyoming Counties,56043,"Washakie County, WY",2060,100,056881650

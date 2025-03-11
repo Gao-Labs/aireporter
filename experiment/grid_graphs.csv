@@ -1,0 +1,1021 @@
+report_id,key,value,metric,graph,aggregation
+000360339,sourcehours-donut-sourcetype,Time Driven by Vehicle Type,sourcehours,donut,sourcetype
+000360339,starts-donut-sourcetype,Vehicle Starts by Vehicle Type,starts,donut,sourcetype
+000360339,vmt-line-sourcebus,Vehicle Miles Traveled over Time for Buses,vmt,line,sourcebus
+000360339,idlehours-line-overall,Idling Overall over Time,idlehours,line,overall
+000360339,sourcehours-map-lower,Time Driven Mapped by Area,sourcehours,map,lower
+000360339,idlehours-map-lower,Idling Mapped by Area,idlehours,map,lower
+000360339,starts-multiline-fueltype,Vehicle Starts by Fuel Type over Time,starts,multiline,fueltype
+000360339,ratevmt-multiline-sourcetype,Emissions Rate (per mile) by Vehicle Type over Time,ratevmt,multiline,sourcetype
+000360339,vmt-rank,Areas Ranked by Vehicle Miles Traveled,vmt,rank,profile
+000360339,idlehours-rank,Areas Ranked by Idling,idlehours,rank,profile
+002148714,hoteld-donut-roadtype,Hotelling (Diesel Aux) by Road Type,hoteld,donut,roadtype
+002148714,emissions-donut-fueltype,Emissions by Fuel Type,emissions,donut,fueltype
+002148714,vmt-line-overall,Vehicle Miles Traveled Overall over Time,vmt,line,overall
+002148714,hoteld-line-overall,Hotelling (Diesel Aux) Overall over Time,hoteld,line,overall
+002148714,hoteld-map-lower,Hotelling (Diesel Aux) Mapped by Area,hoteld,map,lower
+002148714,ratepop-map-upper,Emissions Rate (per capita) in My Region,ratepop,map,upper
+002148714,emissions-multiline-fueltype,Emissions by Fuel Type over Time,emissions,multiline,fueltype
+002148714,emissions-multiline-overall,Emissions by Area over Time,emissions,multiline,overall
+002148714,idlehours-rank,Areas Ranked by Idling,idlehours,rank,profile
+002148714,emissions-rank,Areas Ranked by Emissions,emissions,rank,profile
+002307090,sourcehours-donut-roadtype,Time Driven by Road Type,sourcehours,donut,roadtype
+002307090,ratepop-donut-sourcetype,Emissions Rate (per capita) by Vehicle Type,ratepop,donut,sourcetype
+002307090,ratepop-line-sourcebus,Emissions Rate (per capita) over Time for Buses,ratepop,line,sourcebus
+002307090,vmt-line-overall,Vehicle Miles Traveled Overall over Time,vmt,line,overall
+002307090,ratevmt-map-upper,Emissions Rate (per mile) in My Region,ratevmt,map,upper
+002307090,pop-map-lower,Population Mapped by Area,pop,map,lower
+002307090,hotelo-multiline-roadtype,Hotelling (Engines Off) by Road Type over Time,hotelo,multiline,roadtype
+002307090,vmt-multiline-sourcetype,Vehicle Miles Traveled by Vehicle Type over Time,vmt,multiline,sourcetype
+002307090,ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+002307090,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+002511588,sourcehours-donut-overall,Time Driven Overall by Area,sourcehours,donut,overall
+002511588,emissions-donut-sourcetype,Emissions by Vehicle Type,emissions,donut,sourcetype
+002511588,sourcehours-line-overall,Time Driven Overall over Time,sourcehours,line,overall
+002511588,pop-line-sourcebus,Population over Time for Buses,pop,line,sourcebus
+002511588,emissions-map-lower,Emissions Mapped by Area,emissions,map,lower
+002511588,vmt-map-lower,Vehicle Miles Traveled Mapped by Area,vmt,map,lower
+002511588,sourcehours-multiline-regclass,Time Driven by Regulatory Class over Time,sourcehours,multiline,regclass
+002511588,hotelo-multiline-fueltype,Hotelling (Engines Off) by Fuel Type over Time,hotelo,multiline,fueltype
+002511588,vehicles-rank,Areas Ranked by Vehicles,vehicles,rank,profile
+002511588,sourcehours-rank,Areas Ranked by Time Driven,sourcehours,rank,profile
+002742305,ratevmt-donut-sourcetype,Emissions Rate (per mile) by Vehicle Type,ratevmt,donut,sourcetype
+002742305,hoteld-donut-overall,Hotelling (Diesel Aux) Overall by Area,hoteld,donut,overall
+002742305,emissions-line-sourcecar,Emissions over Time for Passenger Vehicles,emissions,line,sourcecar
+002742305,pop-line-sourcebus,Population over Time for Buses,pop,line,sourcebus
+002742305,ratevmt-map-lower,Emissions Rate (per mile) Mapped by Area,ratevmt,map,lower
+002742305,vmt-map-upper,Vehicle Miles Traveled in My Region,vmt,map,upper
+002742305,emissions-multiline-regclass,Emissions by Regulatory Class over Time,emissions,multiline,regclass
+002742305,ratepop-multiline-roadtype,Emissions Rate (per capita) by Road Type over Time,ratepop,multiline,roadtype
+002742305,starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+002742305,vehicles-rank,Areas Ranked by Vehicles,vehicles,rank,profile
+002856560,vehicles-donut-fueltype,Vehicles by Fuel Type,vehicles,donut,fueltype
+002856560,idlehours-donut-overall,Idling Overall by Area,idlehours,donut,overall
+002856560,pop-line-overall,Population Overall over Time,pop,line,overall
+002856560,hoteld-line-sourcecar,Hotelling (Diesel Aux) over Time for Passenger Vehicles,hoteld,line,sourcecar
+002856560,pop-map-upper,Population in My Region,pop,map,upper
+002856560,pop-map-lower,Population Mapped by Area,pop,map,lower
+002856560,ratevmt-multiline-sourcetype,Emissions Rate (per mile) by Vehicle Type over Time,ratevmt,multiline,sourcetype
+002856560,hoteld-multiline-regclass,Hotelling (Diesel Aux) by Regulatory Class over Time,hoteld,multiline,regclass
+002856560,vmt-rank,Areas Ranked by Vehicle Miles Traveled,vmt,rank,profile
+002856560,pop-rank,Areas Ranked by Population,pop,rank,profile
+003665618,starts-donut-regclass,Vehicle Starts by Regulatory Class,starts,donut,regclass
+003665618,vmt-donut-overall,Vehicle Miles Traveled Overall by Area,vmt,donut,overall
+003665618,ratepop-line-overall,Emissions Rate (per capita) Overall over Time,ratepop,line,overall
+003665618,ratepop-line-sourcecar,Emissions Rate (per capita) over Time for Passenger Vehicles,ratepop,line,sourcecar
+003665618,hoteld-map-lower,Hotelling (Diesel Aux) Mapped by Area,hoteld,map,lower
+003665618,ratevehicles-map-upper,Emissions Rate (per vehicle) in My Region,ratevehicles,map,upper
+003665618,idlehours-multiline-sourcetype,Idling by Vehicle Type over Time,idlehours,multiline,sourcetype
+003665618,vmt-multiline-roadtype,Vehicle Miles Traveled by Road Type over Time,vmt,multiline,roadtype
+003665618,emissions-rank,Areas Ranked by Emissions,emissions,rank,profile
+003665618,ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+005080543,hoteld-donut-overall,Hotelling (Diesel Aux) Overall by Area,hoteld,donut,overall
+005080543,pop-donut-fueltype,Population by Fuel Type,pop,donut,fueltype
+005080543,ratepop-line-sourcecar,Emissions Rate (per capita) over Time for Passenger Vehicles,ratepop,line,sourcecar
+005080543,ratevmt-line-sourcebus,Emissions Rate (per mile) over Time for Buses,ratevmt,line,sourcebus
+005080543,sourcehours-map-upper,Time Driven in My Region,sourcehours,map,upper
+005080543,vehicles-map-upper,Vehicles in My Region,vehicles,map,upper
+005080543,vmt-multiline-roadtype,Vehicle Miles Traveled by Road Type over Time,vmt,multiline,roadtype
+005080543,ratevmt-multiline-roadtype,Emissions Rate (per mile) by Road Type over Time,ratevmt,multiline,roadtype
+005080543,hoteld-rank,Areas Ranked by Hotelling (Diesel Aux),hoteld,rank,profile
+005080543,pop-rank,Areas Ranked by Population,pop,rank,profile
+006083496,starts-donut-sourcetype,Vehicle Starts by Vehicle Type,starts,donut,sourcetype
+006083496,hotelo-donut-roadtype,Hotelling (Engines Off) by Road Type,hotelo,donut,roadtype
+006083496,hotelo-line-sourcebus,Hotelling (Engines Off) over Time for Buses,hotelo,line,sourcebus
+006083496,emissions-line-overall,Emissions Overall over Time,emissions,line,overall
+006083496,vmt-map-lower,Vehicle Miles Traveled Mapped by Area,vmt,map,lower
+006083496,ratepop-map-lower,Emissions Rate (per capita) Mapped by Area,ratepop,map,lower
+006083496,hoteld-multiline-fueltype,Hotelling (Diesel Aux) by Fuel Type over Time,hoteld,multiline,fueltype
+006083496,pop-multiline-overall,Population by Area over Time,pop,multiline,overall
+006083496,ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+006083496,starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+007888765,ratevehicles-donut-overall,Emissions Rate (per vehicle) Overall by Area,ratevehicles,donut,overall
+007888765,pop-donut-roadtype,Population by Road Type,pop,donut,roadtype
+007888765,vmt-line-overall,Vehicle Miles Traveled Overall over Time,vmt,line,overall
+007888765,vehicles-line-sourcebus,Vehicles over Time for Buses,vehicles,line,sourcebus
+007888765,idlehours-map-upper,Idling in My Region,idlehours,map,upper
+007888765,ratepop-map-lower,Emissions Rate (per capita) Mapped by Area,ratepop,map,lower
+007888765,vehicles-multiline-sourcetype,Vehicles by Vehicle Type over Time,vehicles,multiline,sourcetype
+007888765,hotelo-multiline-overall,Hotelling (Engines Off) by Area over Time,hotelo,multiline,overall
+007888765,pop-rank,Areas Ranked by Population,pop,rank,profile
+007888765,emissions-rank,Areas Ranked by Emissions,emissions,rank,profile
+010989810,pop-donut-regclass,Population by Regulatory Class,pop,donut,regclass
+010989810,hotelo-donut-overall,Hotelling (Engines Off) Overall by Area,hotelo,donut,overall
+010989810,ratevehicles-line-sourcebus,Emissions Rate (per vehicle) over Time for Buses,ratevehicles,line,sourcebus
+010989810,pop-line-sourcecar,Population over Time for Passenger Vehicles,pop,line,sourcecar
+010989810,vmt-map-lower,Vehicle Miles Traveled Mapped by Area,vmt,map,lower
+010989810,pop-map-lower,Population Mapped by Area,pop,map,lower
+010989810,starts-multiline-sourcetype,Vehicle Starts by Vehicle Type over Time,starts,multiline,sourcetype
+010989810,sourcehours-multiline-sourcetype,Time Driven by Vehicle Type over Time,sourcehours,multiline,sourcetype
+010989810,emissions-rank,Areas Ranked by Emissions,emissions,rank,profile
+010989810,sourcehours-rank,Areas Ranked by Time Driven,sourcehours,rank,profile
+012046576,ratepop-donut-regclass,Emissions Rate (per capita) by Regulatory Class,ratepop,donut,regclass
+012046576,idlehours-donut-regclass,Idling by Regulatory Class,idlehours,donut,regclass
+012046576,idlehours-line-sourcecar,Idling over Time for Passenger Idling,idlehours,line,sourcecar
+012046576,sourcehours-line-sourcebus,Time Driven over Time for Buses,sourcehours,line,sourcebus
+012046576,vehicles-map-lower,Vehicles Mapped by Area,vehicles,map,lower
+012046576,ratepop-map-upper,Emissions Rate (per capita) in My Region,ratepop,map,upper
+012046576,sourcehours-multiline-sourcetype,Time Driven by Vehicle Type over Time,sourcehours,multiline,sourcetype
+012046576,pop-multiline-fueltype,Population by Fuel Type over Time,pop,multiline,fueltype
+012046576,sourcehours-rank,Areas Ranked by Time Driven,sourcehours,rank,profile
+012046576,ratevehicles-rank,Areas Ranked by Emissions Rate (per vehicle),ratevehicles,rank,profile
+012227067,pop-donut-overall,Population Overall by Area,pop,donut,overall
+012227067,pop-donut-regclass,Population by Regulatory Class,pop,donut,regclass
+012227067,hotelo-line-sourcecar,Hotelling (Engines Off) over Time for Passenger Vehicles,hotelo,line,sourcecar
+012227067,idlehours-line-overall,Idling Overall over Time,idlehours,line,overall
+012227067,hotelo-map-lower,Hotelling (Engines Off) Mapped by Area,hotelo,map,lower
+012227067,emissions-map-lower,Emissions Mapped by Area,emissions,map,lower
+012227067,emissions-multiline-roadtype,Emissions by Road Type over Time,emissions,multiline,roadtype
+012227067,ratevmt-multiline-fueltype,Emissions Rate (per mile) by Fuel Type over Time,ratevmt,multiline,fueltype
+012227067,idlehours-rank,Areas Ranked by Idling,idlehours,rank,profile
+012227067,ratepop-rank,Areas Ranked by Emissions Rate (per capita),ratepop,rank,profile
+012732101,ratevehicles-donut-overall,Emissions Rate (per vehicle) Overall by Area,ratevehicles,donut,overall
+012732101,pop-donut-roadtype,Population by Road Type,pop,donut,roadtype
+012732101,ratepop-line-overall,Emissions Rate (per capita) Overall over Time,ratepop,line,overall
+012732101,hoteld-line-sourcecar,Hotelling (Diesel Aux) over Time for Passenger Vehicles,hoteld,line,sourcecar
+012732101,hoteld-map-lower,Hotelling (Diesel Aux) Mapped by Area,hoteld,map,lower
+012732101,starts-map-lower,Vehicle Starts Mapped by Area,starts,map,lower
+012732101,hoteld-multiline-regclass,Hotelling (Diesel Aux) by Regulatory Class over Time,hoteld,multiline,regclass
+012732101,starts-multiline-roadtype,Vehicle Starts by Road Type over Time,starts,multiline,roadtype
+012732101,ratepop-rank,Areas Ranked by Emissions Rate (per capita),ratepop,rank,profile
+012732101,pop-rank,Areas Ranked by Population,pop,rank,profile
+013159199,hotelo-donut-overall,Hotelling (Engines Off) Overall by Area,hotelo,donut,overall
+013159199,hoteld-donut-overall,Hotelling (Diesel Aux) Overall by Area,hoteld,donut,overall
+013159199,vmt-line-sourcebus,Vehicle Miles Traveled over Time for Buses,vmt,line,sourcebus
+013159199,ratepop-line-sourcebus,Emissions Rate (per capita) over Time for Buses,ratepop,line,sourcebus
+013159199,ratevehicles-map-lower,Emissions Rate (per vehicle) Mapped by Area,ratevehicles,map,lower
+013159199,idlehours-map-lower,Idling Mapped by Area,idlehours,map,lower
+013159199,sourcehours-multiline-regclass,Time Driven by Regulatory Class over Time,sourcehours,multiline,regclass
+013159199,vehicles-multiline-roadtype,Vehicles by Road Type over Time,vehicles,multiline,roadtype
+013159199,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+013159199,pop-rank,Areas Ranked by Population,pop,rank,profile
+013506636,ratevmt-donut-fueltype,Emissions Rate (per mile) by Fuel Type,ratevmt,donut,fueltype
+013506636,ratepop-donut-regclass,Emissions Rate (per capita) by Regulatory Class,ratepop,donut,regclass
+013506636,starts-line-overall,Vehicle Starts Overall over Time,starts,line,overall
+013506636,emissions-line-sourcecar,Emissions over Time for Passenger Vehicles,emissions,line,sourcecar
+013506636,ratevmt-map-lower,Emissions Rate (per mile) Mapped by Area,ratevmt,map,lower
+013506636,pop-map-upper,Population in My Region,pop,map,upper
+013506636,starts-multiline-roadtype,Vehicle Starts by Road Type over Time,starts,multiline,roadtype
+013506636,ratevehicles-multiline-overall,Emissions Rate (per vehicle) by Area over Time,ratevehicles,multiline,overall
+013506636,sourcehours-rank,Areas Ranked by Time Driven,sourcehours,rank,profile
+013506636,starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+013706429,starts-donut-sourcetype,Vehicle Starts by Vehicle Type,starts,donut,sourcetype
+013706429,sourcehours-donut-overall,Time Driven Overall by Area,sourcehours,donut,overall
+013706429,emissions-line-sourcecar,Emissions over Time for Passenger Vehicles,emissions,line,sourcecar
+013706429,emissions-line-overall,Emissions Overall over Time,emissions,line,overall
+013706429,ratevmt-map-upper,Emissions Rate (per mile) in My Region,ratevmt,map,upper
+013706429,ratevehicles-map-upper,Emissions Rate (per vehicle) in My Region,ratevehicles,map,upper
+013706429,hotelo-multiline-sourcetype,Hotelling (Engines Off) by Vehicle Type over Time,hotelo,multiline,sourcetype
+013706429,ratevmt-multiline-fueltype,Emissions Rate (per mile) by Fuel Type over Time,ratevmt,multiline,fueltype
+013706429,sourcehours-rank,Areas Ranked by Time Driven,sourcehours,rank,profile
+013706429,vmt-rank,Areas Ranked by Vehicle Miles Traveled,vmt,rank,profile
+014025109,pop-donut-fueltype,Population by Fuel Type,pop,donut,fueltype
+014025109,emissions-donut-regclass,Emissions by Regulatory Class,emissions,donut,regclass
+014025109,ratepop-line-sourcecar,Emissions Rate (per capita) over Time for Passenger Vehicles,ratepop,line,sourcecar
+014025109,starts-line-overall,Vehicle Starts Overall over Time,starts,line,overall
+014025109,pop-map-upper,Population in My Region,pop,map,upper
+014025109,ratevehicles-map-upper,Emissions Rate (per vehicle) in My Region,ratevehicles,map,upper
+014025109,hoteld-multiline-regclass,Hotelling (Diesel Aux) by Regulatory Class over Time,hoteld,multiline,regclass
+014025109,emissions-multiline-roadtype,Emissions by Road Type over Time,emissions,multiline,roadtype
+014025109,pop-rank,Areas Ranked by Population,pop,rank,profile
+014025109,emissions-rank,Areas Ranked by Emissions,emissions,rank,profile
+014551614,hoteld-donut-fueltype,Hotelling (Diesel Aux) by Fuel Type,hoteld,donut,fueltype
+014551614,hotelo-donut-sourcetype,Hotelling (Engines Off) by Vehicle Type,hotelo,donut,sourcetype
+014551614,hotelo-line-sourcebus,Hotelling (Engines Off) over Time for Buses,hotelo,line,sourcebus
+014551614,pop-line-sourcecar,Population over Time for Passenger Vehicles,pop,line,sourcecar
+014551614,idlehours-map-upper,Idling in My Region,idlehours,map,upper
+014551614,emissions-map-lower,Emissions Mapped by Area,emissions,map,lower
+014551614,ratevehicles-multiline-overall,Emissions Rate (per vehicle) by Area over Time,ratevehicles,multiline,overall
+014551614,idlehours-multiline-roadtype,Idling by Road Type over Time,idlehours,multiline,roadtype
+014551614,vehicles-rank,Areas Ranked by Vehicles,vehicles,rank,profile
+014551614,ratepop-rank,Areas Ranked by Emissions Rate (per capita),ratepop,rank,profile
+015064653,ratevehicles-donut-regclass,Emissions Rate (per vehicle) by Regulatory Class,ratevehicles,donut,regclass
+015064653,ratevmt-donut-roadtype,Emissions Rate (per mile) by Road Type,ratevmt,donut,roadtype
+015064653,ratevehicles-line-overall,Emissions Rate (per vehicle) Overall over Time,ratevehicles,line,overall
+015064653,emissions-line-sourcecar,Emissions over Time for Passenger Vehicles,emissions,line,sourcecar
+015064653,vehicles-map-lower,Vehicles Mapped by Area,vehicles,map,lower
+015064653,ratevehicles-map-lower,Emissions Rate (per vehicle) Mapped by Area,ratevehicles,map,lower
+015064653,sourcehours-multiline-roadtype,Time Driven by Road Type over Time,sourcehours,multiline,roadtype
+015064653,ratevmt-multiline-regclass,Emissions Rate (per mile) by Regulatory Class over Time,ratevmt,multiline,regclass
+015064653,emissions-rank,Areas Ranked by Emissions,emissions,rank,profile
+015064653,starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+015264286,ratepop-donut-roadtype,Emissions Rate (per capita) by Road Type,ratepop,donut,roadtype
+015264286,hoteld-donut-overall,Hotelling (Diesel Aux) Overall by Area,hoteld,donut,overall
+015264286,vmt-line-sourcecar,Vehicle Miles Traveled over Time for Passenger Vehicles,vmt,line,sourcecar
+015264286,hotelo-line-overall,Hotelling (Engines Off) Overall over Time,hotelo,line,overall
+015264286,sourcehours-map-lower,Time Driven Mapped by Area,sourcehours,map,lower
+015264286,ratepop-map-upper,Emissions Rate (per capita) in My Region,ratepop,map,upper
+015264286,idlehours-multiline-fueltype,Idling by Fuel Type over Time,idlehours,multiline,fueltype
+015264286,ratepop-multiline-fueltype,Emissions Rate (per capita) by Fuel Type over Time,ratepop,multiline,fueltype
+015264286,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+015264286,emissions-rank,Areas Ranked by Emissions,emissions,rank,profile
+016043533,starts-donut-roadtype,Vehicle Starts by Road Type,starts,donut,roadtype
+016043533,ratepop-donut-fueltype,Emissions Rate (per capita) by Fuel Type,ratepop,donut,fueltype
+016043533,hoteld-line-sourcebus,Hotelling (Diesel Aux) over Time for Buses,hoteld,line,sourcebus
+016043533,emissions-line-sourcebus,Emissions over Time for Buses,emissions,line,sourcebus
+016043533,ratepop-map-upper,Emissions Rate (per capita) in My Region,ratepop,map,upper
+016043533,vehicles-map-lower,Vehicles Mapped by Area,vehicles,map,lower
+016043533,emissions-multiline-roadtype,Emissions by Road Type over Time,emissions,multiline,roadtype
+016043533,idlehours-multiline-sourcetype,Idling by Vehicle Type over Time,idlehours,multiline,sourcetype
+016043533,idlehours-rank,Areas Ranked by Idling,idlehours,rank,profile
+016043533,sourcehours-rank,Areas Ranked by Time Driven,sourcehours,rank,profile
+016088968,pop-donut-fueltype,Population by Fuel Type,pop,donut,fueltype
+016088968,hoteld-donut-regclass,Hotelling (Diesel Aux) by Regulatory Class,hoteld,donut,regclass
+016088968,idlehours-line-overall,Idling Overall over Time,idlehours,line,overall
+016088968,ratevehicles-line-overall,Emissions Rate (per vehicle) Overall over Time,ratevehicles,line,overall
+016088968,hotelo-map-upper,Hotelling (Engines Off) in My Region,hotelo,map,upper
+016088968,vmt-map-lower,Vehicle Miles Traveled Mapped by Area,vmt,map,lower
+016088968,sourcehours-multiline-sourcetype,Time Driven by Vehicle Type over Time,sourcehours,multiline,sourcetype
+016088968,ratevehicles-multiline-regclass,Emissions Rate (per vehicle) by Regulatory Class over Time,ratevehicles,multiline,regclass
+016088968,emissions-rank,Areas Ranked by Emissions,emissions,rank,profile
+016088968,sourcehours-rank,Areas Ranked by Time Driven,sourcehours,rank,profile
+016372474,starts-donut-roadtype,Vehicle Starts by Road Type,starts,donut,roadtype
+016372474,hoteld-donut-fueltype,Hotelling (Diesel Aux) by Fuel Type,hoteld,donut,fueltype
+016372474,ratepop-line-sourcecar,Emissions Rate (per capita) over Time for Passenger Vehicles,ratepop,line,sourcecar
+016372474,starts-line-sourcecar,Vehicle Starts over Time for Passenger Vehicle Starts,starts,line,sourcecar
+016372474,hotelo-map-upper,Hotelling (Engines Off) in My Region,hotelo,map,upper
+016372474,vehicles-map-lower,Vehicles Mapped by Area,vehicles,map,lower
+016372474,idlehours-multiline-roadtype,Idling by Road Type over Time,idlehours,multiline,roadtype
+016372474,hoteld-multiline-roadtype,Hotelling (Diesel Aux) by Road Type over Time,hoteld,multiline,roadtype
+016372474,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+016372474,vmt-rank,Areas Ranked by Vehicle Miles Traveled,vmt,rank,profile
+016746607,hoteld-donut-roadtype,Hotelling (Diesel Aux) by Road Type,hoteld,donut,roadtype
+016746607,vehicles-donut-overall,Vehicles Overall by Area,vehicles,donut,overall
+016746607,idlehours-line-overall,Idling Overall over Time,idlehours,line,overall
+016746607,hoteld-line-overall,Hotelling (Diesel Aux) Overall over Time,hoteld,line,overall
+016746607,vehicles-map-lower,Vehicles Mapped by Area,vehicles,map,lower
+016746607,ratepop-map-lower,Emissions Rate (per capita) Mapped by Area,ratepop,map,lower
+016746607,vehicles-multiline-overall,Vehicles by Area over Time,vehicles,multiline,overall
+016746607,idlehours-multiline-roadtype,Idling by Road Type over Time,idlehours,multiline,roadtype
+016746607,ratevehicles-rank,Areas Ranked by Emissions Rate (per vehicle),ratevehicles,rank,profile
+016746607,emissions-rank,Areas Ranked by Emissions,emissions,rank,profile
+016851921,hotelo-donut-fueltype,Hotelling (Engines Off) by Fuel Type,hotelo,donut,fueltype
+016851921,emissions-donut-regclass,Emissions by Regulatory Class,emissions,donut,regclass
+016851921,vehicles-line-overall,Vehicles Overall over Time,vehicles,line,overall
+016851921,sourcehours-line-sourcebus,Time Driven over Time for Buses,sourcehours,line,sourcebus
+016851921,hotelo-map-lower,Hotelling (Engines Off) Mapped by Area,hotelo,map,lower
+016851921,ratepop-map-lower,Emissions Rate (per capita) Mapped by Area,ratepop,map,lower
+016851921,hotelo-multiline-overall,Hotelling (Engines Off) by Area over Time,hotelo,multiline,overall
+016851921,vmt-multiline-sourcetype,Vehicle Miles Traveled by Vehicle Type over Time,vmt,multiline,sourcetype
+016851921,idlehours-rank,Areas Ranked by Idling,idlehours,rank,profile
+016851921,ratevehicles-rank,Areas Ranked by Emissions Rate (per vehicle),ratevehicles,rank,profile
+018012464,ratevehicles-donut-roadtype,Emissions Rate (per vehicle) by Road Type,ratevehicles,donut,roadtype
+018012464,sourcehours-donut-overall,Time Driven Overall by Area,sourcehours,donut,overall
+018012464,ratevmt-line-sourcebus,Emissions Rate (per mile) over Time for Buses,ratevmt,line,sourcebus
+018012464,sourcehours-line-overall,Time Driven Overall over Time,sourcehours,line,overall
+018012464,sourcehours-map-lower,Time Driven Mapped by Area,sourcehours,map,lower
+018012464,ratepop-map-upper,Emissions Rate (per capita) in My Region,ratepop,map,upper
+018012464,starts-multiline-regclass,Vehicle Starts by Regulatory Class over Time,starts,multiline,regclass
+018012464,hotelo-multiline-fueltype,Hotelling (Engines Off) by Fuel Type over Time,hotelo,multiline,fueltype
+018012464,ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+018012464,sourcehours-rank,Areas Ranked by Time Driven,sourcehours,rank,profile
+018145960,hoteld-donut-regclass,Hotelling (Diesel Aux) by Regulatory Class,hoteld,donut,regclass
+018145960,ratevmt-donut-fueltype,Emissions Rate (per mile) by Fuel Type,ratevmt,donut,fueltype
+018145960,sourcehours-line-sourcecar,Time Driven over Time for Passenger Time Driven,sourcehours,line,sourcecar
+018145960,hotelo-line-overall,Hotelling (Engines Off) Overall over Time,hotelo,line,overall
+018145960,ratevmt-map-upper,Emissions Rate (per mile) in My Region,ratevmt,map,upper
+018145960,vmt-map-lower,Vehicle Miles Traveled Mapped by Area,vmt,map,lower
+018145960,starts-multiline-fueltype,Vehicle Starts by Fuel Type over Time,starts,multiline,fueltype
+018145960,hotelo-multiline-fueltype,Hotelling (Engines Off) by Fuel Type over Time,hotelo,multiline,fueltype
+018145960,emissions-rank,Areas Ranked by Emissions,emissions,rank,profile
+018145960,pop-rank,Areas Ranked by Population,pop,rank,profile
+018566605,hotelo-donut-roadtype,Hotelling (Engines Off) by Road Type,hotelo,donut,roadtype
+018566605,ratepop-donut-overall,Emissions Rate (per capita) Overall by Area,ratepop,donut,overall
+018566605,sourcehours-line-overall,Time Driven Overall over Time,sourcehours,line,overall
+018566605,ratevehicles-line-sourcebus,Emissions Rate (per vehicle) over Time for Buses,ratevehicles,line,sourcebus
+018566605,emissions-map-upper,Emissions in My Region,emissions,map,upper
+018566605,pop-map-upper,Population in My Region,pop,map,upper
+018566605,idlehours-multiline-fueltype,Idling by Fuel Type over Time,idlehours,multiline,fueltype
+018566605,starts-multiline-sourcetype,Vehicle Starts by Vehicle Type over Time,starts,multiline,sourcetype
+018566605,pop-rank,Areas Ranked by Population,pop,rank,profile
+018566605,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+021923668,ratepop-donut-fueltype,Emissions Rate (per capita) by Fuel Type,ratepop,donut,fueltype
+021923668,ratepop-donut-sourcetype,Emissions Rate (per capita) by Vehicle Type,ratepop,donut,sourcetype
+021923668,emissions-line-sourcecar,Emissions over Time for Passenger Vehicles,emissions,line,sourcecar
+021923668,emissions-line-sourcebus,Emissions over Time for Buses,emissions,line,sourcebus
+021923668,sourcehours-map-upper,Time Driven in My Region,sourcehours,map,upper
+021923668,starts-map-upper,Vehicle Starts in My Region,starts,map,upper
+021923668,starts-multiline-overall,Vehicle Starts by Area over Time,starts,multiline,overall
+021923668,ratevehicles-multiline-overall,Emissions Rate (per vehicle) by Area over Time,ratevehicles,multiline,overall
+021923668,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+021923668,pop-rank,Areas Ranked by Population,pop,rank,profile
+024535903,emissions-donut-regclass,Emissions by Regulatory Class,emissions,donut,regclass
+024535903,ratevmt-donut-overall,Emissions Rate (per mile) Overall by Area,ratevmt,donut,overall
+024535903,starts-line-sourcecar,Vehicle Starts over Time for Passenger Vehicle Starts,starts,line,sourcecar
+024535903,vmt-line-sourcebus,Vehicle Miles Traveled over Time for Buses,vmt,line,sourcebus
+024535903,vmt-map-upper,Vehicle Miles Traveled in My Region,vmt,map,upper
+024535903,ratevmt-map-lower,Emissions Rate (per mile) Mapped by Area,ratevmt,map,lower
+024535903,ratevmt-multiline-overall,Emissions Rate (per mile) by Area over Time,ratevmt,multiline,overall
+024535903,ratevehicles-multiline-regclass,Emissions Rate (per vehicle) by Regulatory Class over Time,ratevehicles,multiline,regclass
+024535903,starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+024535903,pop-rank,Areas Ranked by Population,pop,rank,profile
+026083862,hotelo-donut-overall,Hotelling (Engines Off) Overall by Area,hotelo,donut,overall
+026083862,ratepop-donut-fueltype,Emissions Rate (per capita) by Fuel Type,ratepop,donut,fueltype
+026083862,ratepop-line-overall,Emissions Rate (per capita) Overall over Time,ratepop,line,overall
+026083862,ratevehicles-line-sourcecar,Emissions Rate (per vehicle) over Time for Passenger Vehicles,ratevehicles,line,sourcecar
+026083862,vehicles-map-lower,Vehicles Mapped by Area,vehicles,map,lower
+026083862,ratevmt-map-lower,Emissions Rate (per mile) Mapped by Area,ratevmt,map,lower
+026083862,ratevmt-multiline-roadtype,Emissions Rate (per mile) by Road Type over Time,ratevmt,multiline,roadtype
+026083862,vehicles-multiline-fueltype,Vehicles by Fuel Type over Time,vehicles,multiline,fueltype
+026083862,emissions-rank,Areas Ranked by Emissions,emissions,rank,profile
+026083862,ratevehicles-rank,Areas Ranked by Emissions Rate (per vehicle),ratevehicles,rank,profile
+028160345,starts-donut-fueltype,Vehicle Starts by Fuel Type,starts,donut,fueltype
+028160345,hotelo-donut-sourcetype,Hotelling (Engines Off) by Vehicle Type,hotelo,donut,sourcetype
+028160345,ratevmt-line-overall,Emissions Rate (per mile) Overall over Time,ratevmt,line,overall
+028160345,pop-line-sourcecar,Population over Time for Passenger Vehicles,pop,line,sourcecar
+028160345,sourcehours-map-upper,Time Driven in My Region,sourcehours,map,upper
+028160345,vehicles-map-lower,Vehicles Mapped by Area,vehicles,map,lower
+028160345,emissions-multiline-roadtype,Emissions by Road Type over Time,emissions,multiline,roadtype
+028160345,sourcehours-multiline-fueltype,Time Driven by Fuel Type over Time,sourcehours,multiline,fueltype
+028160345,emissions-rank,Areas Ranked by Emissions,emissions,rank,profile
+028160345,starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+029480461,ratepop-donut-overall,Emissions Rate (per capita) Overall by Area,ratepop,donut,overall
+029480461,vmt-donut-regclass,Vehicle Miles Traveled by Regulatory Class,vmt,donut,regclass
+029480461,vmt-line-sourcecar,Vehicle Miles Traveled over Time for Passenger Vehicles,vmt,line,sourcecar
+029480461,idlehours-line-sourcebus,Idling over Time for Buses,idlehours,line,sourcebus
+029480461,starts-map-lower,Vehicle Starts Mapped by Area,starts,map,lower
+029480461,sourcehours-map-upper,Time Driven in My Region,sourcehours,map,upper
+029480461,ratepop-multiline-roadtype,Emissions Rate (per capita) by Road Type over Time,ratepop,multiline,roadtype
+029480461,ratevmt-multiline-fueltype,Emissions Rate (per mile) by Fuel Type over Time,ratevmt,multiline,fueltype
+029480461,emissions-rank,Areas Ranked by Emissions,emissions,rank,profile
+029480461,vehicles-rank,Areas Ranked by Vehicles,vehicles,rank,profile
+033046045,vmt-donut-overall,Vehicle Miles Traveled Overall by Area,vmt,donut,overall
+033046045,starts-donut-roadtype,Vehicle Starts by Road Type,starts,donut,roadtype
+033046045,pop-line-overall,Population Overall over Time,pop,line,overall
+033046045,sourcehours-line-sourcebus,Time Driven over Time for Buses,sourcehours,line,sourcebus
+033046045,pop-map-lower,Population Mapped by Area,pop,map,lower
+033046045,hoteld-map-upper,Hotelling (Diesel Aux) in My Region,hoteld,map,upper
+033046045,emissions-multiline-overall,Emissions by Area over Time,emissions,multiline,overall
+033046045,idlehours-multiline-roadtype,Idling by Road Type over Time,idlehours,multiline,roadtype
+033046045,pop-rank,Areas Ranked by Population,pop,rank,profile
+033046045,vehicles-rank,Areas Ranked by Vehicles,vehicles,rank,profile
+033092998,hotelo-donut-overall,Hotelling (Engines Off) Overall by Area,hotelo,donut,overall
+033092998,hoteld-donut-sourcetype,Hotelling (Diesel Aux) by Vehicle Type,hoteld,donut,sourcetype
+033092998,hoteld-line-sourcecar,Hotelling (Diesel Aux) over Time for Passenger Vehicles,hoteld,line,sourcecar
+033092998,emissions-line-sourcebus,Emissions over Time for Buses,emissions,line,sourcebus
+033092998,hoteld-map-upper,Hotelling (Diesel Aux) in My Region,hoteld,map,upper
+033092998,idlehours-map-lower,Idling Mapped by Area,idlehours,map,lower
+033092998,emissions-multiline-sourcetype,Emissions by Vehicle Type over Time,emissions,multiline,sourcetype
+033092998,hotelo-multiline-fueltype,Hotelling (Engines Off) by Fuel Type over Time,hotelo,multiline,fueltype
+033092998,ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+033092998,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+033607156,pop-donut-regclass,Population by Regulatory Class,pop,donut,regclass
+033607156,starts-donut-roadtype,Vehicle Starts by Road Type,starts,donut,roadtype
+033607156,vmt-line-sourcecar,Vehicle Miles Traveled over Time for Passenger Vehicles,vmt,line,sourcecar
+033607156,pop-line-overall,Population Overall over Time,pop,line,overall
+033607156,emissions-map-lower,Emissions Mapped by Area,emissions,map,lower
+033607156,pop-map-upper,Population in My Region,pop,map,upper
+033607156,pop-multiline-regclass,Population by Regulatory Class over Time,pop,multiline,regclass
+033607156,vmt-multiline-roadtype,Vehicle Miles Traveled by Road Type over Time,vmt,multiline,roadtype
+033607156,pop-rank,Areas Ranked by Population,pop,rank,profile
+033607156,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+034304779,starts-donut-sourcetype,Vehicle Starts by Vehicle Type,starts,donut,sourcetype
+034304779,vmt-donut-overall,Vehicle Miles Traveled Overall by Area,vmt,donut,overall
+034304779,ratevehicles-line-sourcebus,Emissions Rate (per vehicle) over Time for Buses,ratevehicles,line,sourcebus
+034304779,pop-line-overall,Population Overall over Time,pop,line,overall
+034304779,starts-map-upper,Vehicle Starts in My Region,starts,map,upper
+034304779,ratepop-map-upper,Emissions Rate (per capita) in My Region,ratepop,map,upper
+034304779,emissions-multiline-roadtype,Emissions by Road Type over Time,emissions,multiline,roadtype
+034304779,ratevmt-multiline-sourcetype,Emissions Rate (per mile) by Vehicle Type over Time,ratevmt,multiline,sourcetype
+034304779,ratevehicles-rank,Areas Ranked by Emissions Rate (per vehicle),ratevehicles,rank,profile
+034304779,starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+035374833,idlehours-donut-overall,Idling Overall by Area,idlehours,donut,overall
+035374833,ratevmt-donut-overall,Emissions Rate (per mile) Overall by Area,ratevmt,donut,overall
+035374833,ratepop-line-overall,Emissions Rate (per capita) Overall over Time,ratepop,line,overall
+035374833,ratevmt-line-overall,Emissions Rate (per mile) Overall over Time,ratevmt,line,overall
+035374833,ratevehicles-map-upper,Emissions Rate (per vehicle) in My Region,ratevehicles,map,upper
+035374833,hoteld-map-upper,Hotelling (Diesel Aux) in My Region,hoteld,map,upper
+035374833,emissions-multiline-roadtype,Emissions by Road Type over Time,emissions,multiline,roadtype
+035374833,vmt-multiline-sourcetype,Vehicle Miles Traveled by Vehicle Type over Time,vmt,multiline,sourcetype
+035374833,vehicles-rank,Areas Ranked by Vehicles,vehicles,rank,profile
+035374833,emissions-rank,Areas Ranked by Emissions,emissions,rank,profile
+035441964,vmt-donut-roadtype,Vehicle Miles Traveled by Road Type,vmt,donut,roadtype
+035441964,starts-donut-roadtype,Vehicle Starts by Road Type,starts,donut,roadtype
+035441964,emissions-line-overall,Emissions Overall over Time,emissions,line,overall
+035441964,starts-line-sourcecar,Vehicle Starts over Time for Passenger Vehicle Starts,starts,line,sourcecar
+035441964,idlehours-map-lower,Idling Mapped by Area,idlehours,map,lower
+035441964,hoteld-map-lower,Hotelling (Diesel Aux) Mapped by Area,hoteld,map,lower
+035441964,ratepop-multiline-sourcetype,Emissions Rate (per capita) by Vehicle Type over Time,ratepop,multiline,sourcetype
+035441964,vmt-multiline-sourcetype,Vehicle Miles Traveled by Vehicle Type over Time,vmt,multiline,sourcetype
+035441964,pop-rank,Areas Ranked by Population,pop,rank,profile
+035441964,idlehours-rank,Areas Ranked by Idling,idlehours,rank,profile
+035455159,idlehours-donut-regclass,Idling by Regulatory Class,idlehours,donut,regclass
+035455159,starts-donut-roadtype,Vehicle Starts by Road Type,starts,donut,roadtype
+035455159,starts-line-sourcebus,Vehicle Starts over Time for Buses,starts,line,sourcebus
+035455159,emissions-line-overall,Emissions Overall over Time,emissions,line,overall
+035455159,pop-map-upper,Population in My Region,pop,map,upper
+035455159,emissions-map-upper,Emissions in My Region,emissions,map,upper
+035455159,sourcehours-multiline-sourcetype,Time Driven by Vehicle Type over Time,sourcehours,multiline,sourcetype
+035455159,sourcehours-multiline-overall,Time Driven by Area over Time,sourcehours,multiline,overall
+035455159,ratepop-rank,Areas Ranked by Emissions Rate (per capita),ratepop,rank,profile
+035455159,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+035731386,hotelo-donut-regclass,Hotelling (Engines Off) by Regulatory Class,hotelo,donut,regclass
+035731386,hoteld-donut-roadtype,Hotelling (Diesel Aux) by Road Type,hoteld,donut,roadtype
+035731386,vmt-line-sourcebus,Vehicle Miles Traveled over Time for Buses,vmt,line,sourcebus
+035731386,idlehours-line-sourcebus,Idling over Time for Buses,idlehours,line,sourcebus
+035731386,hoteld-map-lower,Hotelling (Diesel Aux) Mapped by Area,hoteld,map,lower
+035731386,idlehours-map-lower,Idling Mapped by Area,idlehours,map,lower
+035731386,hotelo-multiline-regclass,Hotelling (Engines Off) by Regulatory Class over Time,hotelo,multiline,regclass
+035731386,emissions-multiline-roadtype,Emissions by Road Type over Time,emissions,multiline,roadtype
+035731386,sourcehours-rank,Areas Ranked by Time Driven,sourcehours,rank,profile
+035731386,idlehours-rank,Areas Ranked by Idling,idlehours,rank,profile
+036862437,ratevmt-donut-fueltype,Emissions Rate (per mile) by Fuel Type,ratevmt,donut,fueltype
+036862437,vmt-donut-fueltype,Vehicle Miles Traveled by Fuel Type,vmt,donut,fueltype
+036862437,vmt-line-sourcecar,Vehicle Miles Traveled over Time for Passenger Vehicles,vmt,line,sourcecar
+036862437,ratevmt-line-sourcecar,Emissions Rate (per mile) over Time for Passenger Vehicles,ratevmt,line,sourcecar
+036862437,hoteld-map-lower,Hotelling (Diesel Aux) Mapped by Area,hoteld,map,lower
+036862437,starts-map-upper,Vehicle Starts in My Region,starts,map,upper
+036862437,hoteld-multiline-fueltype,Hotelling (Diesel Aux) by Fuel Type over Time,hoteld,multiline,fueltype
+036862437,starts-multiline-overall,Vehicle Starts by Area over Time,starts,multiline,overall
+036862437,sourcehours-rank,Areas Ranked by Time Driven,sourcehours,rank,profile
+036862437,idlehours-rank,Areas Ranked by Idling,idlehours,rank,profile
+036973064,ratepop-donut-fueltype,Emissions Rate (per capita) by Fuel Type,ratepop,donut,fueltype
+036973064,ratevehicles-donut-regclass,Emissions Rate (per vehicle) by Regulatory Class,ratevehicles,donut,regclass
+036973064,vmt-line-sourcebus,Vehicle Miles Traveled over Time for Buses,vmt,line,sourcebus
+036973064,emissions-line-sourcecar,Emissions over Time for Passenger Vehicles,emissions,line,sourcecar
+036973064,idlehours-map-upper,Idling in My Region,idlehours,map,upper
+036973064,ratepop-map-upper,Emissions Rate (per capita) in My Region,ratepop,map,upper
+036973064,ratevehicles-multiline-sourcetype,Emissions Rate (per vehicle) by Vehicle Type over Time,ratevehicles,multiline,sourcetype
+036973064,idlehours-multiline-overall,Idling by Area over Time,idlehours,multiline,overall
+036973064,ratevehicles-rank,Areas Ranked by Emissions Rate (per vehicle),ratevehicles,rank,profile
+036973064,sourcehours-rank,Areas Ranked by Time Driven,sourcehours,rank,profile
+037326793,ratevmt-donut-sourcetype,Emissions Rate (per mile) by Vehicle Type,ratevmt,donut,sourcetype
+037326793,idlehours-donut-overall,Idling Overall by Area,idlehours,donut,overall
+037326793,hoteld-line-sourcebus,Hotelling (Diesel Aux) over Time for Buses,hoteld,line,sourcebus
+037326793,idlehours-line-sourcebus,Idling over Time for Buses,idlehours,line,sourcebus
+037326793,ratevehicles-map-upper,Emissions Rate (per vehicle) in My Region,ratevehicles,map,upper
+037326793,starts-map-lower,Vehicle Starts Mapped by Area,starts,map,lower
+037326793,vehicles-multiline-overall,Vehicles by Area over Time,vehicles,multiline,overall
+037326793,idlehours-multiline-regclass,Idling by Regulatory Class over Time,idlehours,multiline,regclass
+037326793,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+037326793,ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+037912753,ratevehicles-donut-roadtype,Emissions Rate (per vehicle) by Road Type,ratevehicles,donut,roadtype
+037912753,pop-donut-fueltype,Population by Fuel Type,pop,donut,fueltype
+037912753,sourcehours-line-sourcebus,Time Driven over Time for Buses,sourcehours,line,sourcebus
+037912753,vehicles-line-sourcebus,Vehicles over Time for Buses,vehicles,line,sourcebus
+037912753,sourcehours-map-upper,Time Driven in My Region,sourcehours,map,upper
+037912753,pop-map-upper,Population in My Region,pop,map,upper
+037912753,pop-multiline-sourcetype,Population by Vehicle Type over Time,pop,multiline,sourcetype
+037912753,hotelo-multiline-roadtype,Hotelling (Engines Off) by Road Type over Time,hotelo,multiline,roadtype
+037912753,vehicles-rank,Areas Ranked by Vehicles,vehicles,rank,profile
+037912753,vmt-rank,Areas Ranked by Vehicle Miles Traveled,vmt,rank,profile
+039675323,emissions-donut-regclass,Emissions by Regulatory Class,emissions,donut,regclass
+039675323,ratevehicles-donut-fueltype,Emissions Rate (per vehicle) by Fuel Type,ratevehicles,donut,fueltype
+039675323,hoteld-line-overall,Hotelling (Diesel Aux) Overall over Time,hoteld,line,overall
+039675323,starts-line-sourcebus,Vehicle Starts over Time for Buses,starts,line,sourcebus
+039675323,idlehours-map-upper,Idling in My Region,idlehours,map,upper
+039675323,ratevehicles-map-upper,Emissions Rate (per vehicle) in My Region,ratevehicles,map,upper
+039675323,sourcehours-multiline-roadtype,Time Driven by Road Type over Time,sourcehours,multiline,roadtype
+039675323,vmt-multiline-regclass,Vehicle Miles Traveled by Regulatory Class over Time,vmt,multiline,regclass
+039675323,ratevehicles-rank,Areas Ranked by Emissions Rate (per vehicle),ratevehicles,rank,profile
+039675323,starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+040365956,emissions-donut-fueltype,Emissions by Fuel Type,emissions,donut,fueltype
+040365956,hoteld-donut-roadtype,Hotelling (Diesel Aux) by Road Type,hoteld,donut,roadtype
+040365956,ratepop-line-sourcecar,Emissions Rate (per capita) over Time for Passenger Vehicles,ratepop,line,sourcecar
+040365956,ratevehicles-line-sourcebus,Emissions Rate (per vehicle) over Time for Buses,ratevehicles,line,sourcebus
+040365956,starts-map-lower,Vehicle Starts Mapped by Area,starts,map,lower
+040365956,vehicles-map-upper,Vehicles in My Region,vehicles,map,upper
+040365956,pop-multiline-fueltype,Population by Fuel Type over Time,pop,multiline,fueltype
+040365956,hotelo-multiline-overall,Hotelling (Engines Off) by Area over Time,hotelo,multiline,overall
+040365956,pop-rank,Areas Ranked by Population,pop,rank,profile
+040365956,ratevehicles-rank,Areas Ranked by Emissions Rate (per vehicle),ratevehicles,rank,profile
+040546965,emissions-donut-roadtype,Emissions by Road Type,emissions,donut,roadtype
+040546965,ratevmt-donut-roadtype,Emissions Rate (per mile) by Road Type,ratevmt,donut,roadtype
+040546965,emissions-line-sourcebus,Emissions over Time for Buses,emissions,line,sourcebus
+040546965,vmt-line-overall,Vehicle Miles Traveled Overall over Time,vmt,line,overall
+040546965,hotelo-map-upper,Hotelling (Engines Off) in My Region,hotelo,map,upper
+040546965,pop-map-lower,Population Mapped by Area,pop,map,lower
+040546965,hotelo-multiline-overall,Hotelling (Engines Off) by Area over Time,hotelo,multiline,overall
+040546965,idlehours-multiline-overall,Idling by Area over Time,idlehours,multiline,overall
+040546965,ratepop-rank,Areas Ranked by Emissions Rate (per capita),ratepop,rank,profile
+040546965,starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+040610971,sourcehours-donut-overall,Time Driven Overall by Area,sourcehours,donut,overall
+040610971,hoteld-donut-regclass,Hotelling (Diesel Aux) by Regulatory Class,hoteld,donut,regclass
+040610971,vmt-line-sourcecar,Vehicle Miles Traveled over Time for Passenger Vehicles,vmt,line,sourcecar
+040610971,vmt-line-overall,Vehicle Miles Traveled Overall over Time,vmt,line,overall
+040610971,ratepop-map-lower,Emissions Rate (per capita) Mapped by Area,ratepop,map,lower
+040610971,ratevmt-map-lower,Emissions Rate (per mile) Mapped by Area,ratevmt,map,lower
+040610971,vmt-multiline-sourcetype,Vehicle Miles Traveled by Vehicle Type over Time,vmt,multiline,sourcetype
+040610971,ratevehicles-multiline-roadtype,Emissions Rate (per vehicle) by Road Type over Time,ratevehicles,multiline,roadtype
+040610971,starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+040610971,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+041429266,starts-donut-sourcetype,Vehicle Starts by Vehicle Type,starts,donut,sourcetype
+041429266,hotelo-donut-sourcetype,Hotelling (Engines Off) by Vehicle Type,hotelo,donut,sourcetype
+041429266,starts-line-overall,Vehicle Starts Overall over Time,starts,line,overall
+041429266,idlehours-line-sourcebus,Idling over Time for Buses,idlehours,line,sourcebus
+041429266,hotelo-map-upper,Hotelling (Engines Off) in My Region,hotelo,map,upper
+041429266,vmt-map-upper,Vehicle Miles Traveled in My Region,vmt,map,upper
+041429266,pop-multiline-fueltype,Population by Fuel Type over Time,pop,multiline,fueltype
+041429266,hoteld-multiline-roadtype,Hotelling (Diesel Aux) by Road Type over Time,hoteld,multiline,roadtype
+041429266,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+041429266,pop-rank,Areas Ranked by Population,pop,rank,profile
+044385293,sourcehours-donut-roadtype,Time Driven by Road Type,sourcehours,donut,roadtype
+044385293,starts-donut-overall,Vehicle Starts Overall by Area,starts,donut,overall
+044385293,sourcehours-line-sourcebus,Time Driven over Time for Buses,sourcehours,line,sourcebus
+044385293,hotelo-line-overall,Hotelling (Engines Off) Overall over Time,hotelo,line,overall
+044385293,ratevmt-map-upper,Emissions Rate (per mile) in My Region,ratevmt,map,upper
+044385293,sourcehours-map-upper,Time Driven in My Region,sourcehours,map,upper
+044385293,ratevehicles-multiline-overall,Emissions Rate (per vehicle) by Area over Time,ratevehicles,multiline,overall
+044385293,ratepop-multiline-roadtype,Emissions Rate (per capita) by Road Type over Time,ratepop,multiline,roadtype
+044385293,starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+044385293,ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+046695752,vehicles-donut-fueltype,Vehicles by Fuel Type,vehicles,donut,fueltype
+046695752,ratevehicles-donut-regclass,Emissions Rate (per vehicle) by Regulatory Class,ratevehicles,donut,regclass
+046695752,hoteld-line-sourcecar,Hotelling (Diesel Aux) over Time for Passenger Vehicles,hoteld,line,sourcecar
+046695752,starts-line-overall,Vehicle Starts Overall over Time,starts,line,overall
+046695752,vmt-map-lower,Vehicle Miles Traveled Mapped by Area,vmt,map,lower
+046695752,ratevmt-map-lower,Emissions Rate (per mile) Mapped by Area,ratevmt,map,lower
+046695752,vmt-multiline-regclass,Vehicle Miles Traveled by Regulatory Class over Time,vmt,multiline,regclass
+046695752,hoteld-multiline-fueltype,Hotelling (Diesel Aux) by Fuel Type over Time,hoteld,multiline,fueltype
+046695752,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+046695752,vmt-rank,Areas Ranked by Vehicle Miles Traveled,vmt,rank,profile
+047024373,pop-donut-regclass,Population by Regulatory Class,pop,donut,regclass
+047024373,emissions-donut-sourcetype,Emissions by Vehicle Type,emissions,donut,sourcetype
+047024373,sourcehours-line-overall,Time Driven Overall over Time,sourcehours,line,overall
+047024373,hotelo-line-overall,Hotelling (Engines Off) Overall over Time,hotelo,line,overall
+047024373,vehicles-map-upper,Vehicles in My Region,vehicles,map,upper
+047024373,sourcehours-map-lower,Time Driven Mapped by Area,sourcehours,map,lower
+047024373,idlehours-multiline-sourcetype,Idling by Vehicle Type over Time,idlehours,multiline,sourcetype
+047024373,vmt-multiline-fueltype,Vehicle Miles Traveled by Fuel Type over Time,vmt,multiline,fueltype
+047024373,idlehours-rank,Areas Ranked by Idling,idlehours,rank,profile
+047024373,vmt-rank,Areas Ranked by Vehicle Miles Traveled,vmt,rank,profile
+047162944,starts-donut-overall,Vehicle Starts Overall by Area,starts,donut,overall
+047162944,ratepop-donut-sourcetype,Emissions Rate (per capita) by Vehicle Type,ratepop,donut,sourcetype
+047162944,sourcehours-line-sourcecar,Time Driven over Time for Passenger Time Driven,sourcehours,line,sourcecar
+047162944,vehicles-line-sourcecar,Vehicles over Time for Passenger Vehicles,vehicles,line,sourcecar
+047162944,ratepop-map-lower,Emissions Rate (per capita) Mapped by Area,ratepop,map,lower
+047162944,hotelo-map-lower,Hotelling (Engines Off) Mapped by Area,hotelo,map,lower
+047162944,pop-multiline-regclass,Population by Regulatory Class over Time,pop,multiline,regclass
+047162944,vmt-multiline-sourcetype,Vehicle Miles Traveled by Vehicle Type over Time,vmt,multiline,sourcetype
+047162944,ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+047162944,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+050440919,starts-donut-roadtype,Vehicle Starts by Road Type,starts,donut,roadtype
+050440919,pop-donut-fueltype,Population by Fuel Type,pop,donut,fueltype
+050440919,vmt-line-overall,Vehicle Miles Traveled Overall over Time,vmt,line,overall
+050440919,ratevehicles-line-overall,Emissions Rate (per vehicle) Overall over Time,ratevehicles,line,overall
+050440919,hotelo-map-lower,Hotelling (Engines Off) Mapped by Area,hotelo,map,lower
+050440919,pop-map-upper,Population in My Region,pop,map,upper
+050440919,vehicles-multiline-sourcetype,Vehicles by Vehicle Type over Time,vehicles,multiline,sourcetype
+050440919,ratevmt-multiline-sourcetype,Emissions Rate (per mile) by Vehicle Type over Time,ratevmt,multiline,sourcetype
+050440919,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+050440919,ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+051271176,hoteld-donut-roadtype,Hotelling (Diesel Aux) by Road Type,hoteld,donut,roadtype
+051271176,vmt-donut-regclass,Vehicle Miles Traveled by Regulatory Class,vmt,donut,regclass
+051271176,vmt-line-sourcebus,Vehicle Miles Traveled over Time for Buses,vmt,line,sourcebus
+051271176,idlehours-line-overall,Idling Overall over Time,idlehours,line,overall
+051271176,ratevmt-map-upper,Emissions Rate (per mile) in My Region,ratevmt,map,upper
+051271176,emissions-map-upper,Emissions in My Region,emissions,map,upper
+051271176,ratepop-multiline-overall,Emissions Rate (per capita) by Area over Time,ratepop,multiline,overall
+051271176,ratepop-multiline-regclass,Emissions Rate (per capita) by Regulatory Class over Time,ratepop,multiline,regclass
+051271176,starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+051271176,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+052145757,emissions-donut-regclass,Emissions by Regulatory Class,emissions,donut,regclass
+052145757,sourcehours-donut-regclass,Time Driven by Regulatory Class,sourcehours,donut,regclass
+052145757,ratepop-line-sourcecar,Emissions Rate (per capita) over Time for Passenger Vehicles,ratepop,line,sourcecar
+052145757,emissions-line-sourcecar,Emissions over Time for Passenger Vehicles,emissions,line,sourcecar
+052145757,vehicles-map-lower,Vehicles Mapped by Area,vehicles,map,lower
+052145757,vehicles-map-upper,Vehicles in My Region,vehicles,map,upper
+052145757,ratevehicles-multiline-sourcetype,Emissions Rate (per vehicle) by Vehicle Type over Time,ratevehicles,multiline,sourcetype
+052145757,vmt-multiline-sourcetype,Vehicle Miles Traveled by Vehicle Type over Time,vmt,multiline,sourcetype
+052145757,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+052145757,starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+052787507,starts-donut-roadtype,Vehicle Starts by Road Type,starts,donut,roadtype
+052787507,vehicles-donut-overall,Vehicles Overall by Area,vehicles,donut,overall
+052787507,vmt-line-sourcebus,Vehicle Miles Traveled over Time for Buses,vmt,line,sourcebus
+052787507,vehicles-line-sourcecar,Vehicles over Time for Passenger Vehicles,vehicles,line,sourcecar
+052787507,sourcehours-map-upper,Time Driven in My Region,sourcehours,map,upper
+052787507,ratepop-map-lower,Emissions Rate (per capita) Mapped by Area,ratepop,map,lower
+052787507,vehicles-multiline-overall,Vehicles by Area over Time,vehicles,multiline,overall
+052787507,sourcehours-multiline-overall,Time Driven by Area over Time,sourcehours,multiline,overall
+052787507,vmt-rank,Areas Ranked by Vehicle Miles Traveled,vmt,rank,profile
+052787507,pop-rank,Areas Ranked by Population,pop,rank,profile
+053313359,starts-donut-regclass,Vehicle Starts by Regulatory Class,starts,donut,regclass
+053313359,hoteld-donut-overall,Hotelling (Diesel Aux) Overall by Area,hoteld,donut,overall
+053313359,vehicles-line-sourcebus,Vehicles over Time for Buses,vehicles,line,sourcebus
+053313359,hotelo-line-sourcebus,Hotelling (Engines Off) over Time for Buses,hotelo,line,sourcebus
+053313359,emissions-map-upper,Emissions in My Region,emissions,map,upper
+053313359,vehicles-map-upper,Vehicles in My Region,vehicles,map,upper
+053313359,idlehours-multiline-overall,Idling by Area over Time,idlehours,multiline,overall
+053313359,idlehours-multiline-regclass,Idling by Regulatory Class over Time,idlehours,multiline,regclass
+053313359,pop-rank,Areas Ranked by Population,pop,rank,profile
+053313359,emissions-rank,Areas Ranked by Emissions,emissions,rank,profile
+053490133,ratevmt-donut-overall,Emissions Rate (per mile) Overall by Area,ratevmt,donut,overall
+053490133,emissions-donut-sourcetype,Emissions by Vehicle Type,emissions,donut,sourcetype
+053490133,emissions-line-sourcecar,Emissions over Time for Passenger Vehicles,emissions,line,sourcecar
+053490133,vmt-line-sourcecar,Vehicle Miles Traveled over Time for Passenger Vehicles,vmt,line,sourcecar
+053490133,hoteld-map-upper,Hotelling (Diesel Aux) in My Region,hoteld,map,upper
+053490133,idlehours-map-upper,Idling in My Region,idlehours,map,upper
+053490133,idlehours-multiline-fueltype,Idling by Fuel Type over Time,idlehours,multiline,fueltype
+053490133,hotelo-multiline-overall,Hotelling (Engines Off) by Area over Time,hotelo,multiline,overall
+053490133,ratepop-rank,Areas Ranked by Emissions Rate (per capita),ratepop,rank,profile
+053490133,pop-rank,Areas Ranked by Population,pop,rank,profile
+055799505,pop-donut-overall,Population Overall by Area,pop,donut,overall
+055799505,ratevmt-donut-sourcetype,Emissions Rate (per mile) by Vehicle Type,ratevmt,donut,sourcetype
+055799505,hotelo-line-overall,Hotelling (Engines Off) Overall over Time,hotelo,line,overall
+055799505,ratevmt-line-overall,Emissions Rate (per mile) Overall over Time,ratevmt,line,overall
+055799505,vehicles-map-upper,Vehicles in My Region,vehicles,map,upper
+055799505,vehicles-map-lower,Vehicles Mapped by Area,vehicles,map,lower
+055799505,pop-multiline-regclass,Population by Regulatory Class over Time,pop,multiline,regclass
+055799505,starts-multiline-sourcetype,Vehicle Starts by Vehicle Type over Time,starts,multiline,sourcetype
+055799505,idlehours-rank,Areas Ranked by Idling,idlehours,rank,profile
+055799505,starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+056881650,pop-donut-roadtype,Population by Road Type,pop,donut,roadtype
+056881650,ratepop-donut-regclass,Emissions Rate (per capita) by Regulatory Class,ratepop,donut,regclass
+056881650,pop-line-sourcebus,Population over Time for Buses,pop,line,sourcebus
+056881650,ratevmt-line-overall,Emissions Rate (per mile) Overall over Time,ratevmt,line,overall
+056881650,hotelo-map-upper,Hotelling (Engines Off) in My Region,hotelo,map,upper
+056881650,idlehours-map-lower,Idling Mapped by Area,idlehours,map,lower
+056881650,ratepop-multiline-regclass,Emissions Rate (per capita) by Regulatory Class over Time,ratepop,multiline,regclass
+056881650,pop-multiline-regclass,Population by Regulatory Class over Time,pop,multiline,regclass
+056881650,starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+056881650,sourcehours-rank,Areas Ranked by Time Driven,sourcehours,rank,profile
+058109463,ratepop-donut-overall,Emissions Rate (per capita) Overall by Area,ratepop,donut,overall
+058109463,idlehours-donut-roadtype,Idling by Road Type,idlehours,donut,roadtype
+058109463,hotelo-line-overall,Hotelling (Engines Off) Overall over Time,hotelo,line,overall
+058109463,ratevmt-line-sourcecar,Emissions Rate (per mile) over Time for Passenger Vehicles,ratevmt,line,sourcecar
+058109463,idlehours-map-lower,Idling Mapped by Area,idlehours,map,lower
+058109463,hotelo-map-upper,Hotelling (Engines Off) in My Region,hotelo,map,upper
+058109463,ratevehicles-multiline-roadtype,Emissions Rate (per vehicle) by Road Type over Time,ratevehicles,multiline,roadtype
+058109463,ratevehicles-multiline-regclass,Emissions Rate (per vehicle) by Regulatory Class over Time,ratevehicles,multiline,regclass
+058109463,sourcehours-rank,Areas Ranked by Time Driven,sourcehours,rank,profile
+058109463,hoteld-rank,Areas Ranked by Hotelling (Diesel Aux),hoteld,rank,profile
+060660117,hoteld-donut-sourcetype,Hotelling (Diesel Aux) by Vehicle Type,hoteld,donut,sourcetype
+060660117,ratepop-donut-sourcetype,Emissions Rate (per capita) by Vehicle Type,ratepop,donut,sourcetype
+060660117,hotelo-line-sourcecar,Hotelling (Engines Off) over Time for Passenger Vehicles,hotelo,line,sourcecar
+060660117,vehicles-line-sourcecar,Vehicles over Time for Passenger Vehicles,vehicles,line,sourcecar
+060660117,hoteld-map-lower,Hotelling (Diesel Aux) Mapped by Area,hoteld,map,lower
+060660117,vehicles-map-lower,Vehicles Mapped by Area,vehicles,map,lower
+060660117,pop-multiline-regclass,Population by Regulatory Class over Time,pop,multiline,regclass
+060660117,vmt-multiline-sourcetype,Vehicle Miles Traveled by Vehicle Type over Time,vmt,multiline,sourcetype
+060660117,hoteld-rank,Areas Ranked by Hotelling (Diesel Aux),hoteld,rank,profile
+060660117,ratepop-rank,Areas Ranked by Emissions Rate (per capita),ratepop,rank,profile
+061574953,hoteld-donut-sourcetype,Hotelling (Diesel Aux) by Vehicle Type,hoteld,donut,sourcetype
+061574953,ratevmt-donut-sourcetype,Emissions Rate (per mile) by Vehicle Type,ratevmt,donut,sourcetype
+061574953,ratepop-line-overall,Emissions Rate (per capita) Overall over Time,ratepop,line,overall
+061574953,vehicles-line-sourcebus,Vehicles over Time for Buses,vehicles,line,sourcebus
+061574953,idlehours-map-lower,Idling Mapped by Area,idlehours,map,lower
+061574953,starts-map-upper,Vehicle Starts in My Region,starts,map,upper
+061574953,hoteld-multiline-sourcetype,Hotelling (Diesel Aux) by Vehicle Type over Time,hoteld,multiline,sourcetype
+061574953,emissions-multiline-sourcetype,Emissions by Vehicle Type over Time,emissions,multiline,sourcetype
+061574953,ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+061574953,ratevehicles-rank,Areas Ranked by Emissions Rate (per vehicle),ratevehicles,rank,profile
+062006933,ratepop-donut-roadtype,Emissions Rate (per capita) by Road Type,ratepop,donut,roadtype
+062006933,hoteld-donut-overall,Hotelling (Diesel Aux) Overall by Area,hoteld,donut,overall
+062006933,sourcehours-line-sourcebus,Time Driven over Time for Buses,sourcehours,line,sourcebus
+062006933,vehicles-line-sourcebus,Vehicles over Time for Buses,vehicles,line,sourcebus
+062006933,vehicles-map-upper,Vehicles in My Region,vehicles,map,upper
+062006933,idlehours-map-upper,Idling in My Region,idlehours,map,upper
+062006933,vmt-multiline-overall,Vehicle Miles Traveled by Area over Time,vmt,multiline,overall
+062006933,ratevehicles-multiline-regclass,Emissions Rate (per vehicle) by Regulatory Class over Time,ratevehicles,multiline,regclass
+062006933,ratepop-rank,Areas Ranked by Emissions Rate (per capita),ratepop,rank,profile
+062006933,ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+062037840,ratevehicles-donut-sourcetype,Emissions Rate (per vehicle) by Vehicle Type,ratevehicles,donut,sourcetype
+062037840,ratevmt-donut-roadtype,Emissions Rate (per mile) by Road Type,ratevmt,donut,roadtype
+062037840,hotelo-line-sourcecar,Hotelling (Engines Off) over Time for Passenger Vehicles,hotelo,line,sourcecar
+062037840,pop-line-sourcecar,Population over Time for Passenger Vehicles,pop,line,sourcecar
+062037840,hoteld-map-upper,Hotelling (Diesel Aux) in My Region,hoteld,map,upper
+062037840,emissions-map-lower,Emissions Mapped by Area,emissions,map,lower
+062037840,hotelo-multiline-sourcetype,Hotelling (Engines Off) by Vehicle Type over Time,hotelo,multiline,sourcetype
+062037840,hotelo-multiline-regclass,Hotelling (Engines Off) by Regulatory Class over Time,hotelo,multiline,regclass
+062037840,vehicles-rank,Areas Ranked by Vehicles,vehicles,rank,profile
+062037840,pop-rank,Areas Ranked by Population,pop,rank,profile
+064202194,ratepop-donut-roadtype,Emissions Rate (per capita) by Road Type,ratepop,donut,roadtype
+064202194,vehicles-donut-fueltype,Vehicles by Fuel Type,vehicles,donut,fueltype
+064202194,vehicles-line-sourcebus,Vehicles over Time for Buses,vehicles,line,sourcebus
+064202194,hotelo-line-overall,Hotelling (Engines Off) Overall over Time,hotelo,line,overall
+064202194,starts-map-lower,Vehicle Starts Mapped by Area,starts,map,lower
+064202194,ratevehicles-map-upper,Emissions Rate (per vehicle) in My Region,ratevehicles,map,upper
+064202194,ratevmt-multiline-roadtype,Emissions Rate (per mile) by Road Type over Time,ratevmt,multiline,roadtype
+064202194,vehicles-multiline-sourcetype,Vehicles by Vehicle Type over Time,vehicles,multiline,sourcetype
+064202194,ratepop-rank,Areas Ranked by Emissions Rate (per capita),ratepop,rank,profile
+064202194,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+064421715,pop-donut-overall,Population Overall by Area,pop,donut,overall
+064421715,ratevehicles-donut-overall,Emissions Rate (per vehicle) Overall by Area,ratevehicles,donut,overall
+064421715,sourcehours-line-sourcecar,Time Driven over Time for Passenger Time Driven,sourcehours,line,sourcecar
+064421715,ratepop-line-sourcebus,Emissions Rate (per capita) over Time for Buses,ratepop,line,sourcebus
+064421715,ratevehicles-map-lower,Emissions Rate (per vehicle) Mapped by Area,ratevehicles,map,lower
+064421715,ratepop-map-lower,Emissions Rate (per capita) Mapped by Area,ratepop,map,lower
+064421715,hoteld-multiline-overall,Hotelling (Diesel Aux) by Area over Time,hoteld,multiline,overall
+064421715,ratepop-multiline-roadtype,Emissions Rate (per capita) by Road Type over Time,ratepop,multiline,roadtype
+064421715,pop-rank,Areas Ranked by Population,pop,rank,profile
+064421715,ratepop-rank,Areas Ranked by Emissions Rate (per capita),ratepop,rank,profile
+064808667,hotelo-donut-fueltype,Hotelling (Engines Off) by Fuel Type,hotelo,donut,fueltype
+064808667,sourcehours-donut-sourcetype,Time Driven by Vehicle Type,sourcehours,donut,sourcetype
+064808667,ratevehicles-line-sourcecar,Emissions Rate (per vehicle) over Time for Passenger Vehicles,ratevehicles,line,sourcecar
+064808667,ratepop-line-overall,Emissions Rate (per capita) Overall over Time,ratepop,line,overall
+064808667,pop-map-upper,Population in My Region,pop,map,upper
+064808667,vmt-map-upper,Vehicle Miles Traveled in My Region,vmt,map,upper
+064808667,starts-multiline-fueltype,Vehicle Starts by Fuel Type over Time,starts,multiline,fueltype
+064808667,vmt-multiline-sourcetype,Vehicle Miles Traveled by Vehicle Type over Time,vmt,multiline,sourcetype
+064808667,ratevehicles-rank,Areas Ranked by Emissions Rate (per vehicle),ratevehicles,rank,profile
+064808667,vehicles-rank,Areas Ranked by Vehicles,vehicles,rank,profile
+066174761,idlehours-donut-fueltype,Idling by Fuel Type,idlehours,donut,fueltype
+066174761,sourcehours-donut-fueltype,Time Driven by Fuel Type,sourcehours,donut,fueltype
+066174761,starts-line-overall,Vehicle Starts Overall over Time,starts,line,overall
+066174761,ratevmt-line-sourcecar,Emissions Rate (per mile) over Time for Passenger Vehicles,ratevmt,line,sourcecar
+066174761,starts-map-upper,Vehicle Starts in My Region,starts,map,upper
+066174761,vehicles-map-lower,Vehicles Mapped by Area,vehicles,map,lower
+066174761,vmt-multiline-roadtype,Vehicle Miles Traveled by Road Type over Time,vmt,multiline,roadtype
+066174761,starts-multiline-fueltype,Vehicle Starts by Fuel Type over Time,starts,multiline,fueltype
+066174761,ratepop-rank,Areas Ranked by Emissions Rate (per capita),ratepop,rank,profile
+066174761,idlehours-rank,Areas Ranked by Idling,idlehours,rank,profile
+067122908,hoteld-donut-roadtype,Hotelling (Diesel Aux) by Road Type,hoteld,donut,roadtype
+067122908,vmt-donut-fueltype,Vehicle Miles Traveled by Fuel Type,vmt,donut,fueltype
+067122908,sourcehours-line-sourcebus,Time Driven over Time for Buses,sourcehours,line,sourcebus
+067122908,ratepop-line-sourcebus,Emissions Rate (per capita) over Time for Buses,ratepop,line,sourcebus
+067122908,ratepop-map-upper,Emissions Rate (per capita) in My Region,ratepop,map,upper
+067122908,ratepop-map-lower,Emissions Rate (per capita) Mapped by Area,ratepop,map,lower
+067122908,pop-multiline-sourcetype,Population by Vehicle Type over Time,pop,multiline,sourcetype
+067122908,pop-multiline-fueltype,Population by Fuel Type over Time,pop,multiline,fueltype
+067122908,ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+067122908,pop-rank,Areas Ranked by Population,pop,rank,profile
+068725969,vmt-donut-fueltype,Vehicle Miles Traveled by Fuel Type,vmt,donut,fueltype
+068725969,hoteld-donut-fueltype,Hotelling (Diesel Aux) by Fuel Type,hoteld,donut,fueltype
+068725969,starts-line-sourcebus,Vehicle Starts over Time for Buses,starts,line,sourcebus
+068725969,vmt-line-overall,Vehicle Miles Traveled Overall over Time,vmt,line,overall
+068725969,emissions-map-lower,Emissions Mapped by Area,emissions,map,lower
+068725969,ratepop-map-lower,Emissions Rate (per capita) Mapped by Area,ratepop,map,lower
+068725969,idlehours-multiline-regclass,Idling by Regulatory Class over Time,idlehours,multiline,regclass
+068725969,ratevmt-multiline-roadtype,Emissions Rate (per mile) by Road Type over Time,ratevmt,multiline,roadtype
+068725969,ratepop-rank,Areas Ranked by Emissions Rate (per capita),ratepop,rank,profile
+068725969,starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+069230375,vehicles-donut-roadtype,Vehicles by Road Type,vehicles,donut,roadtype
+069230375,hotelo-donut-roadtype,Hotelling (Engines Off) by Road Type,hotelo,donut,roadtype
+069230375,hoteld-line-sourcecar,Hotelling (Diesel Aux) over Time for Passenger Vehicles,hoteld,line,sourcecar
+069230375,hoteld-line-sourcebus,Hotelling (Diesel Aux) over Time for Buses,hoteld,line,sourcebus
+069230375,ratevehicles-map-lower,Emissions Rate (per vehicle) Mapped by Area,ratevehicles,map,lower
+069230375,vehicles-map-upper,Vehicles in My Region,vehicles,map,upper
+069230375,emissions-multiline-fueltype,Emissions by Fuel Type over Time,emissions,multiline,fueltype
+069230375,vehicles-multiline-regclass,Vehicles by Regulatory Class over Time,vehicles,multiline,regclass
+069230375,pop-rank,Areas Ranked by Population,pop,rank,profile
+069230375,ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+069655270,starts-donut-roadtype,Vehicle Starts by Road Type,starts,donut,roadtype
+069655270,hotelo-donut-overall,Hotelling (Engines Off) Overall by Area,hotelo,donut,overall
+069655270,idlehours-line-overall,Idling Overall over Time,idlehours,line,overall
+069655270,hotelo-line-sourcecar,Hotelling (Engines Off) over Time for Passenger Vehicles,hotelo,line,sourcecar
+069655270,vmt-map-lower,Vehicle Miles Traveled Mapped by Area,vmt,map,lower
+069655270,hotelo-map-upper,Hotelling (Engines Off) in My Region,hotelo,map,upper
+069655270,sourcehours-multiline-overall,Time Driven by Area over Time,sourcehours,multiline,overall
+069655270,pop-multiline-roadtype,Population by Road Type over Time,pop,multiline,roadtype
+069655270,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+069655270,starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+069879265,hotelo-donut-sourcetype,Hotelling (Engines Off) by Vehicle Type,hotelo,donut,sourcetype
+069879265,ratevmt-donut-overall,Emissions Rate (per mile) Overall by Area,ratevmt,donut,overall
+069879265,ratepop-line-overall,Emissions Rate (per capita) Overall over Time,ratepop,line,overall
+069879265,starts-line-overall,Vehicle Starts Overall over Time,starts,line,overall
+069879265,starts-map-lower,Vehicle Starts Mapped by Area,starts,map,lower
+069879265,ratevehicles-map-lower,Emissions Rate (per vehicle) Mapped by Area,ratevehicles,map,lower
+069879265,hotelo-multiline-fueltype,Hotelling (Engines Off) by Fuel Type over Time,hotelo,multiline,fueltype
+069879265,starts-multiline-roadtype,Vehicle Starts by Road Type over Time,starts,multiline,roadtype
+069879265,vmt-rank,Areas Ranked by Vehicle Miles Traveled,vmt,rank,profile
+069879265,ratepop-rank,Areas Ranked by Emissions Rate (per capita),ratepop,rank,profile
+071873835,idlehours-donut-roadtype,Idling by Road Type,idlehours,donut,roadtype
+071873835,emissions-donut-roadtype,Emissions by Road Type,emissions,donut,roadtype
+071873835,hotelo-line-sourcebus,Hotelling (Engines Off) over Time for Buses,hotelo,line,sourcebus
+071873835,ratevehicles-line-sourcecar,Emissions Rate (per vehicle) over Time for Passenger Vehicles,ratevehicles,line,sourcecar
+071873835,vehicles-map-upper,Vehicles in My Region,vehicles,map,upper
+071873835,sourcehours-map-upper,Time Driven in My Region,sourcehours,map,upper
+071873835,starts-multiline-regclass,Vehicle Starts by Regulatory Class over Time,starts,multiline,regclass
+071873835,starts-multiline-roadtype,Vehicle Starts by Road Type over Time,starts,multiline,roadtype
+071873835,vmt-rank,Areas Ranked by Vehicle Miles Traveled,vmt,rank,profile
+071873835,ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+072016986,vmt-donut-sourcetype,Vehicle Miles Traveled by Vehicle Type,vmt,donut,sourcetype
+072016986,vmt-donut-overall,Vehicle Miles Traveled Overall by Area,vmt,donut,overall
+072016986,idlehours-line-sourcecar,Idling over Time for Passenger Idling,idlehours,line,sourcecar
+072016986,sourcehours-line-overall,Time Driven Overall over Time,sourcehours,line,overall
+072016986,hotelo-map-lower,Hotelling (Engines Off) Mapped by Area,hotelo,map,lower
+072016986,hoteld-map-lower,Hotelling (Diesel Aux) Mapped by Area,hoteld,map,lower
+072016986,idlehours-multiline-sourcetype,Idling by Vehicle Type over Time,idlehours,multiline,sourcetype
+072016986,emissions-multiline-regclass,Emissions by Regulatory Class over Time,emissions,multiline,regclass
+072016986,vmt-rank,Areas Ranked by Vehicle Miles Traveled,vmt,rank,profile
+072016986,sourcehours-rank,Areas Ranked by Time Driven,sourcehours,rank,profile
+073454765,hotelo-donut-overall,Hotelling (Engines Off) Overall by Area,hotelo,donut,overall
+073454765,sourcehours-donut-fueltype,Time Driven by Fuel Type,sourcehours,donut,fueltype
+073454765,idlehours-line-sourcecar,Idling over Time for Passenger Idling,idlehours,line,sourcecar
+073454765,emissions-line-sourcecar,Emissions over Time for Passenger Vehicles,emissions,line,sourcecar
+073454765,hotelo-map-upper,Hotelling (Engines Off) in My Region,hotelo,map,upper
+073454765,pop-map-lower,Population Mapped by Area,pop,map,lower
+073454765,idlehours-multiline-roadtype,Idling by Road Type over Time,idlehours,multiline,roadtype
+073454765,emissions-multiline-sourcetype,Emissions by Vehicle Type over Time,emissions,multiline,sourcetype
+073454765,ratepop-rank,Areas Ranked by Emissions Rate (per capita),ratepop,rank,profile
+073454765,pop-rank,Areas Ranked by Population,pop,rank,profile
+074402316,vmt-donut-fueltype,Vehicle Miles Traveled by Fuel Type,vmt,donut,fueltype
+074402316,ratepop-donut-fueltype,Emissions Rate (per capita) by Fuel Type,ratepop,donut,fueltype
+074402316,vmt-line-overall,Vehicle Miles Traveled Overall over Time,vmt,line,overall
+074402316,ratevehicles-line-overall,Emissions Rate (per vehicle) Overall over Time,ratevehicles,line,overall
+074402316,starts-map-lower,Vehicle Starts Mapped by Area,starts,map,lower
+074402316,vehicles-map-upper,Vehicles in My Region,vehicles,map,upper
+074402316,ratepop-multiline-overall,Emissions Rate (per capita) by Area over Time,ratepop,multiline,overall
+074402316,emissions-multiline-roadtype,Emissions by Road Type over Time,emissions,multiline,roadtype
+074402316,sourcehours-rank,Areas Ranked by Time Driven,sourcehours,rank,profile
+074402316,idlehours-rank,Areas Ranked by Idling,idlehours,rank,profile
+074439617,pop-donut-roadtype,Population by Road Type,pop,donut,roadtype
+074439617,idlehours-donut-sourcetype,Idling by Vehicle Type,idlehours,donut,sourcetype
+074439617,ratevehicles-line-sourcebus,Emissions Rate (per vehicle) over Time for Buses,ratevehicles,line,sourcebus
+074439617,hoteld-line-sourcecar,Hotelling (Diesel Aux) over Time for Passenger Vehicles,hoteld,line,sourcecar
+074439617,ratevmt-map-lower,Emissions Rate (per mile) Mapped by Area,ratevmt,map,lower
+074439617,vehicles-map-upper,Vehicles in My Region,vehicles,map,upper
+074439617,sourcehours-multiline-fueltype,Time Driven by Fuel Type over Time,sourcehours,multiline,fueltype
+074439617,emissions-multiline-roadtype,Emissions by Road Type over Time,emissions,multiline,roadtype
+074439617,pop-rank,Areas Ranked by Population,pop,rank,profile
+074439617,ratevehicles-rank,Areas Ranked by Emissions Rate (per vehicle),ratevehicles,rank,profile
+075172891,starts-donut-sourcetype,Vehicle Starts by Vehicle Type,starts,donut,sourcetype
+075172891,idlehours-donut-sourcetype,Idling by Vehicle Type,idlehours,donut,sourcetype
+075172891,hotelo-line-sourcecar,Hotelling (Engines Off) over Time for Passenger Vehicles,hotelo,line,sourcecar
+075172891,sourcehours-line-sourcecar,Time Driven over Time for Passenger Time Driven,sourcehours,line,sourcecar
+075172891,vmt-map-upper,Vehicle Miles Traveled in My Region,vmt,map,upper
+075172891,hotelo-map-upper,Hotelling (Engines Off) in My Region,hotelo,map,upper
+075172891,sourcehours-multiline-roadtype,Time Driven by Road Type over Time,sourcehours,multiline,roadtype
+075172891,ratevmt-multiline-roadtype,Emissions Rate (per mile) by Road Type over Time,ratevmt,multiline,roadtype
+075172891,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+075172891,hoteld-rank,Areas Ranked by Hotelling (Diesel Aux),hoteld,rank,profile
+075624175,ratevehicles-donut-roadtype,Emissions Rate (per vehicle) by Road Type,ratevehicles,donut,roadtype
+075624175,sourcehours-donut-overall,Time Driven Overall by Area,sourcehours,donut,overall
+075624175,ratevmt-line-sourcebus,Emissions Rate (per mile) over Time for Buses,ratevmt,line,sourcebus
+075624175,pop-line-overall,Population Overall over Time,pop,line,overall
+075624175,ratevehicles-map-upper,Emissions Rate (per vehicle) in My Region,ratevehicles,map,upper
+075624175,hotelo-map-upper,Hotelling (Engines Off) in My Region,hotelo,map,upper
+075624175,vehicles-multiline-roadtype,Vehicles by Road Type over Time,vehicles,multiline,roadtype
+075624175,idlehours-multiline-regclass,Idling by Regulatory Class over Time,idlehours,multiline,regclass
+075624175,starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+075624175,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+075806108,hotelo-donut-sourcetype,Hotelling (Engines Off) by Vehicle Type,hotelo,donut,sourcetype
+075806108,idlehours-donut-regclass,Idling by Regulatory Class,idlehours,donut,regclass
+075806108,vmt-line-sourcecar,Vehicle Miles Traveled over Time for Passenger Vehicles,vmt,line,sourcecar
+075806108,vmt-line-overall,Vehicle Miles Traveled Overall over Time,vmt,line,overall
+075806108,starts-map-upper,Vehicle Starts in My Region,starts,map,upper
+075806108,idlehours-map-lower,Idling Mapped by Area,idlehours,map,lower
+075806108,ratevehicles-multiline-regclass,Emissions Rate (per vehicle) by Regulatory Class over Time,ratevehicles,multiline,regclass
+075806108,vehicles-multiline-fueltype,Vehicles by Fuel Type over Time,vehicles,multiline,fueltype
+075806108,vehicles-rank,Areas Ranked by Vehicles,vehicles,rank,profile
+075806108,pop-rank,Areas Ranked by Population,pop,rank,profile
+075927406,hoteld-donut-roadtype,Hotelling (Diesel Aux) by Road Type,hoteld,donut,roadtype
+075927406,hotelo-donut-fueltype,Hotelling (Engines Off) by Fuel Type,hotelo,donut,fueltype
+075927406,starts-line-overall,Vehicle Starts Overall over Time,starts,line,overall
+075927406,idlehours-line-overall,Idling Overall over Time,idlehours,line,overall
+075927406,ratevmt-map-upper,Emissions Rate (per mile) in My Region,ratevmt,map,upper
+075927406,vehicles-map-lower,Vehicles Mapped by Area,vehicles,map,lower
+075927406,ratevehicles-multiline-roadtype,Emissions Rate (per vehicle) by Road Type over Time,ratevehicles,multiline,roadtype
+075927406,idlehours-multiline-overall,Idling by Area over Time,idlehours,multiline,overall
+075927406,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+075927406,ratepop-rank,Areas Ranked by Emissions Rate (per capita),ratepop,rank,profile
+076990284,ratepop-donut-overall,Emissions Rate (per capita) Overall by Area,ratepop,donut,overall
+076990284,pop-donut-fueltype,Population by Fuel Type,pop,donut,fueltype
+076990284,sourcehours-line-sourcecar,Time Driven over Time for Passenger Time Driven,sourcehours,line,sourcecar
+076990284,ratevehicles-line-sourcebus,Emissions Rate (per vehicle) over Time for Buses,ratevehicles,line,sourcebus
+076990284,hoteld-map-upper,Hotelling (Diesel Aux) in My Region,hoteld,map,upper
+076990284,vehicles-map-upper,Vehicles in My Region,vehicles,map,upper
+076990284,hoteld-multiline-roadtype,Hotelling (Diesel Aux) by Road Type over Time,hoteld,multiline,roadtype
+076990284,idlehours-multiline-overall,Idling by Area over Time,idlehours,multiline,overall
+076990284,hoteld-rank,Areas Ranked by Hotelling (Diesel Aux),hoteld,rank,profile
+076990284,sourcehours-rank,Areas Ranked by Time Driven,sourcehours,rank,profile
+078446302,pop-donut-sourcetype,Population by Vehicle Type,pop,donut,sourcetype
+078446302,starts-donut-regclass,Vehicle Starts by Regulatory Class,starts,donut,regclass
+078446302,hoteld-line-sourcecar,Hotelling (Diesel Aux) over Time for Passenger Vehicles,hoteld,line,sourcecar
+078446302,pop-line-sourcebus,Population over Time for Buses,pop,line,sourcebus
+078446302,emissions-map-lower,Emissions Mapped by Area,emissions,map,lower
+078446302,hoteld-map-lower,Hotelling (Diesel Aux) Mapped by Area,hoteld,map,lower
+078446302,emissions-multiline-roadtype,Emissions by Road Type over Time,emissions,multiline,roadtype
+078446302,emissions-multiline-regclass,Emissions by Regulatory Class over Time,emissions,multiline,regclass
+078446302,ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+078446302,starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+079435189,vmt-donut-roadtype,Vehicle Miles Traveled by Road Type,vmt,donut,roadtype
+079435189,idlehours-donut-fueltype,Idling by Fuel Type,idlehours,donut,fueltype
+079435189,pop-line-sourcecar,Population over Time for Passenger Vehicles,pop,line,sourcecar
+079435189,sourcehours-line-overall,Time Driven Overall over Time,sourcehours,line,overall
+079435189,sourcehours-map-upper,Time Driven in My Region,sourcehours,map,upper
+079435189,hotelo-map-lower,Hotelling (Engines Off) Mapped by Area,hotelo,map,lower
+079435189,hotelo-multiline-overall,Hotelling (Engines Off) by Area over Time,hotelo,multiline,overall
+079435189,ratepop-multiline-fueltype,Emissions Rate (per capita) by Fuel Type over Time,ratepop,multiline,fueltype
+079435189,starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+079435189,ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+079985524,idlehours-donut-sourcetype,Idling by Vehicle Type,idlehours,donut,sourcetype
+079985524,hotelo-donut-fueltype,Hotelling (Engines Off) by Fuel Type,hotelo,donut,fueltype
+079985524,emissions-line-sourcebus,Emissions over Time for Buses,emissions,line,sourcebus
+079985524,pop-line-sourcecar,Population over Time for Passenger Vehicles,pop,line,sourcecar
+079985524,sourcehours-map-lower,Time Driven Mapped by Area,sourcehours,map,lower
+079985524,idlehours-map-lower,Idling Mapped by Area,idlehours,map,lower
+079985524,vmt-multiline-regclass,Vehicle Miles Traveled by Regulatory Class over Time,vmt,multiline,regclass
+079985524,sourcehours-multiline-overall,Time Driven by Area over Time,sourcehours,multiline,overall
+079985524,vehicles-rank,Areas Ranked by Vehicles,vehicles,rank,profile
+079985524,idlehours-rank,Areas Ranked by Idling,idlehours,rank,profile
+084491860,pop-donut-roadtype,Population by Road Type,pop,donut,roadtype
+084491860,hoteld-donut-sourcetype,Hotelling (Diesel Aux) by Vehicle Type,hoteld,donut,sourcetype
+084491860,sourcehours-line-sourcecar,Time Driven over Time for Passenger Time Driven,sourcehours,line,sourcecar
+084491860,vehicles-line-overall,Vehicles Overall over Time,vehicles,line,overall
+084491860,sourcehours-map-lower,Time Driven Mapped by Area,sourcehours,map,lower
+084491860,ratepop-map-lower,Emissions Rate (per capita) Mapped by Area,ratepop,map,lower
+084491860,hotelo-multiline-sourcetype,Hotelling (Engines Off) by Vehicle Type over Time,hotelo,multiline,sourcetype
+084491860,ratepop-multiline-sourcetype,Emissions Rate (per capita) by Vehicle Type over Time,ratepop,multiline,sourcetype
+084491860,emissions-rank,Areas Ranked by Emissions,emissions,rank,profile
+084491860,ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+086881088,starts-donut-regclass,Vehicle Starts by Regulatory Class,starts,donut,regclass
+086881088,emissions-donut-regclass,Emissions by Regulatory Class,emissions,donut,regclass
+086881088,sourcehours-line-sourcebus,Time Driven over Time for Buses,sourcehours,line,sourcebus
+086881088,starts-line-sourcecar,Vehicle Starts over Time for Passenger Vehicle Starts,starts,line,sourcecar
+086881088,idlehours-map-lower,Idling Mapped by Area,idlehours,map,lower
+086881088,pop-map-lower,Population Mapped by Area,pop,map,lower
+086881088,ratevmt-multiline-regclass,Emissions Rate (per mile) by Regulatory Class over Time,ratevmt,multiline,regclass
+086881088,sourcehours-multiline-fueltype,Time Driven by Fuel Type over Time,sourcehours,multiline,fueltype
+086881088,vmt-rank,Areas Ranked by Vehicle Miles Traveled,vmt,rank,profile
+086881088,emissions-rank,Areas Ranked by Emissions,emissions,rank,profile
+087668256,hoteld-donut-overall,Hotelling (Diesel Aux) Overall by Area,hoteld,donut,overall
+087668256,starts-donut-fueltype,Vehicle Starts by Fuel Type,starts,donut,fueltype
+087668256,ratevehicles-line-overall,Emissions Rate (per vehicle) Overall over Time,ratevehicles,line,overall
+087668256,hoteld-line-sourcecar,Hotelling (Diesel Aux) over Time for Passenger Vehicles,hoteld,line,sourcecar
+087668256,sourcehours-map-upper,Time Driven in My Region,sourcehours,map,upper
+087668256,ratevehicles-map-lower,Emissions Rate (per vehicle) Mapped by Area,ratevehicles,map,lower
+087668256,emissions-multiline-overall,Emissions by Area over Time,emissions,multiline,overall
+087668256,hoteld-multiline-fueltype,Hotelling (Diesel Aux) by Fuel Type over Time,hoteld,multiline,fueltype
+087668256,ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+087668256,hoteld-rank,Areas Ranked by Hotelling (Diesel Aux),hoteld,rank,profile
+089325520,ratevehicles-donut-roadtype,Emissions Rate (per vehicle) by Road Type,ratevehicles,donut,roadtype
+089325520,ratevehicles-donut-fueltype,Emissions Rate (per vehicle) by Fuel Type,ratevehicles,donut,fueltype
+089325520,vmt-line-sourcecar,Vehicle Miles Traveled over Time for Passenger Vehicles,vmt,line,sourcecar
+089325520,vmt-line-sourcebus,Vehicle Miles Traveled over Time for Buses,vmt,line,sourcebus
+089325520,vmt-map-upper,Vehicle Miles Traveled in My Region,vmt,map,upper
+089325520,pop-map-upper,Population in My Region,pop,map,upper
+089325520,pop-multiline-overall,Population by Area over Time,pop,multiline,overall
+089325520,hotelo-multiline-regclass,Hotelling (Engines Off) by Regulatory Class over Time,hotelo,multiline,regclass
+089325520,hoteld-rank,Areas Ranked by Hotelling (Diesel Aux),hoteld,rank,profile
+089325520,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+089713177,hoteld-donut-regclass,Hotelling (Diesel Aux) by Regulatory Class,hoteld,donut,regclass
+089713177,ratevmt-donut-regclass,Emissions Rate (per mile) by Regulatory Class,ratevmt,donut,regclass
+089713177,emissions-line-overall,Emissions Overall over Time,emissions,line,overall
+089713177,starts-line-sourcebus,Vehicle Starts over Time for Buses,starts,line,sourcebus
+089713177,vmt-map-upper,Vehicle Miles Traveled in My Region,vmt,map,upper
+089713177,ratevehicles-map-upper,Emissions Rate (per vehicle) in My Region,ratevehicles,map,upper
+089713177,hoteld-multiline-fueltype,Hotelling (Diesel Aux) by Fuel Type over Time,hoteld,multiline,fueltype
+089713177,starts-multiline-overall,Vehicle Starts by Area over Time,starts,multiline,overall
+089713177,starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+089713177,ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+091377691,emissions-donut-fueltype,Emissions by Fuel Type,emissions,donut,fueltype
+091377691,idlehours-donut-sourcetype,Idling by Vehicle Type,idlehours,donut,sourcetype
+091377691,hotelo-line-overall,Hotelling (Engines Off) Overall over Time,hotelo,line,overall
+091377691,hotelo-line-sourcebus,Hotelling (Engines Off) over Time for Buses,hotelo,line,sourcebus
+091377691,hoteld-map-upper,Hotelling (Diesel Aux) in My Region,hoteld,map,upper
+091377691,hotelo-map-lower,Hotelling (Engines Off) Mapped by Area,hotelo,map,lower
+091377691,hotelo-multiline-roadtype,Hotelling (Engines Off) by Road Type over Time,hotelo,multiline,roadtype
+091377691,ratevehicles-multiline-sourcetype,Emissions Rate (per vehicle) by Vehicle Type over Time,ratevehicles,multiline,sourcetype
+091377691,ratevehicles-rank,Areas Ranked by Emissions Rate (per vehicle),ratevehicles,rank,profile
+091377691,ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+094391347,vmt-donut-roadtype,Vehicle Miles Traveled by Road Type,vmt,donut,roadtype
+094391347,pop-donut-sourcetype,Population by Vehicle Type,pop,donut,sourcetype
+094391347,starts-line-sourcecar,Vehicle Starts over Time for Passenger Vehicle Starts,starts,line,sourcecar
+094391347,ratevehicles-line-sourcebus,Emissions Rate (per vehicle) over Time for Buses,ratevehicles,line,sourcebus
+094391347,emissions-map-upper,Emissions in My Region,emissions,map,upper
+094391347,ratevmt-map-lower,Emissions Rate (per mile) Mapped by Area,ratevmt,map,lower
+094391347,starts-multiline-roadtype,Vehicle Starts by Road Type over Time,starts,multiline,roadtype
+094391347,hotelo-multiline-sourcetype,Hotelling (Engines Off) by Vehicle Type over Time,hotelo,multiline,sourcetype
+094391347,hoteld-rank,Areas Ranked by Hotelling (Diesel Aux),hoteld,rank,profile
+094391347,ratevehicles-rank,Areas Ranked by Emissions Rate (per vehicle),ratevehicles,rank,profile
+095376567,ratepop-donut-regclass,Emissions Rate (per capita) by Regulatory Class,ratepop,donut,regclass
+095376567,starts-donut-roadtype,Vehicle Starts by Road Type,starts,donut,roadtype
+095376567,pop-line-overall,Population Overall over Time,pop,line,overall
+095376567,starts-line-sourcecar,Vehicle Starts over Time for Passenger Vehicle Starts,starts,line,sourcecar
+095376567,ratepop-map-upper,Emissions Rate (per capita) in My Region,ratepop,map,upper
+095376567,hoteld-map-lower,Hotelling (Diesel Aux) Mapped by Area,hoteld,map,lower
+095376567,vehicles-multiline-roadtype,Vehicles by Road Type over Time,vehicles,multiline,roadtype
+095376567,emissions-multiline-roadtype,Emissions by Road Type over Time,emissions,multiline,roadtype
+095376567,vmt-rank,Areas Ranked by Vehicle Miles Traveled,vmt,rank,profile
+095376567,hoteld-rank,Areas Ranked by Hotelling (Diesel Aux),hoteld,rank,profile
+096081223,hotelo-donut-overall,Hotelling (Engines Off) Overall by Area,hotelo,donut,overall
+096081223,ratepop-donut-sourcetype,Emissions Rate (per capita) by Vehicle Type,ratepop,donut,sourcetype
+096081223,vehicles-line-sourcecar,Vehicles over Time for Passenger Vehicles,vehicles,line,sourcecar
+096081223,ratevehicles-line-sourcecar,Emissions Rate (per vehicle) over Time for Passenger Vehicles,ratevehicles,line,sourcecar
+096081223,emissions-map-upper,Emissions in My Region,emissions,map,upper
+096081223,hoteld-map-lower,Hotelling (Diesel Aux) Mapped by Area,hoteld,map,lower
+096081223,idlehours-multiline-sourcetype,Idling by Vehicle Type over Time,idlehours,multiline,sourcetype
+096081223,emissions-multiline-regclass,Emissions by Regulatory Class over Time,emissions,multiline,regclass
+096081223,ratepop-rank,Areas Ranked by Emissions Rate (per capita),ratepop,rank,profile
+096081223,emissions-rank,Areas Ranked by Emissions,emissions,rank,profile
+098321597,starts-donut-fueltype,Vehicle Starts by Fuel Type,starts,donut,fueltype
+098321597,ratevehicles-donut-regclass,Emissions Rate (per vehicle) by Regulatory Class,ratevehicles,donut,regclass
+098321597,pop-line-sourcecar,Population over Time for Passenger Vehicles,pop,line,sourcecar
+098321597,idlehours-line-sourcecar,Idling over Time for Passenger Idling,idlehours,line,sourcecar
+098321597,ratevmt-map-upper,Emissions Rate (per mile) in My Region,ratevmt,map,upper
+098321597,starts-map-lower,Vehicle Starts Mapped by Area,starts,map,lower
+098321597,starts-multiline-fueltype,Vehicle Starts by Fuel Type over Time,starts,multiline,fueltype
+098321597,hoteld-multiline-roadtype,Hotelling (Diesel Aux) by Road Type over Time,hoteld,multiline,roadtype
+098321597,emissions-rank,Areas Ranked by Emissions,emissions,rank,profile
+098321597,sourcehours-rank,Areas Ranked by Time Driven,sourcehours,rank,profile
+098705006,ratevehicles-donut-overall,Emissions Rate (per vehicle) Overall by Area,ratevehicles,donut,overall
+098705006,pop-donut-regclass,Population by Regulatory Class,pop,donut,regclass
+098705006,ratevmt-line-sourcebus,Emissions Rate (per mile) over Time for Buses,ratevmt,line,sourcebus
+098705006,hoteld-line-sourcebus,Hotelling (Diesel Aux) over Time for Buses,hoteld,line,sourcebus
+098705006,hotelo-map-lower,Hotelling (Engines Off) Mapped by Area,hotelo,map,lower
+098705006,pop-map-upper,Population in My Region,pop,map,upper
+098705006,vmt-multiline-fueltype,Vehicle Miles Traveled by Fuel Type over Time,vmt,multiline,fueltype
+098705006,idlehours-multiline-sourcetype,Idling by Vehicle Type over Time,idlehours,multiline,sourcetype
+098705006,sourcehours-rank,Areas Ranked by Time Driven,sourcehours,rank,profile
+098705006,ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+099527282,hoteld-donut-regclass,Hotelling (Diesel Aux) by Regulatory Class,hoteld,donut,regclass
+099527282,starts-donut-overall,Vehicle Starts Overall by Area,starts,donut,overall
+099527282,ratevmt-line-sourcebus,Emissions Rate (per mile) over Time for Buses,ratevmt,line,sourcebus
+099527282,vmt-line-sourcecar,Vehicle Miles Traveled over Time for Passenger Vehicles,vmt,line,sourcecar
+099527282,vehicles-map-upper,Vehicles in My Region,vehicles,map,upper
+099527282,ratevmt-map-upper,Emissions Rate (per mile) in My Region,ratevmt,map,upper
+099527282,sourcehours-multiline-regclass,Time Driven by Regulatory Class over Time,sourcehours,multiline,regclass
+099527282,vmt-multiline-overall,Vehicle Miles Traveled by Area over Time,vmt,multiline,overall
+099527282,vehicles-rank,Areas Ranked by Vehicles,vehicles,rank,profile
+099527282,hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
