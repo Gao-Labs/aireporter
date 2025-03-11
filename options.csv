@@ -1,0 +1,194 @@
+key,value,metric,graph,aggregation
+emissions-donut-overall,Emissions Overall by Area,emissions,donut,overall
+emissions-donut-sourcetype,Emissions by Vehicle Type,emissions,donut,sourcetype
+emissions-donut-fueltype,Emissions by Fuel Type,emissions,donut,fueltype
+emissions-donut-roadtype,Emissions by Road Type,emissions,donut,roadtype
+emissions-donut-regclass,Emissions by Regulatory Class,emissions,donut,regclass
+emissions-line-sourcebus,Emissions over Time for Buses,emissions,line,sourcebus
+emissions-line-sourcecar,Emissions over Time for Passenger Vehicles,emissions,line,sourcecar
+emissions-line-overall,Emissions Overall over Time,emissions,line,overall
+emissions-multiline-overall,Emissions by Area over Time,emissions,multiline,overall
+emissions-multiline-sourcetype,Emissions by Vehicle Type over Time,emissions,multiline,sourcetype
+emissions-multiline-regclass,Emissions by Regulatory Class over Time,emissions,multiline,regclass
+emissions-multiline-fueltype,Emissions by Fuel Type over Time,emissions,multiline,fueltype
+emissions-multiline-roadtype,Emissions by Road Type over Time,emissions,multiline,roadtype
+emissions-map-lower,Emissions Mapped by Area,emissions,map,lower
+emissions-map-upper,Emissions in My Region,emissions,map,upper
+emissions-rank,Areas Ranked by Emissions,emissions,rank,profile
+vmt-donut-overall,Vehicle Miles Traveled Overall by Area,vmt,donut,overall
+vmt-donut-sourcetype,Vehicle Miles Traveled by Vehicle Type,vmt,donut,sourcetype
+vmt-donut-fueltype,Vehicle Miles Traveled by Fuel Type,vmt,donut,fueltype
+vmt-donut-roadtype,Vehicle Miles Traveled by Road Type,vmt,donut,roadtype
+vmt-donut-regclass,Vehicle Miles Traveled by Regulatory Class,vmt,donut,regclass
+vmt-line-sourcebus,Vehicle Miles Traveled over Time for Buses,vmt,line,sourcebus
+vmt-line-sourcecar,Vehicle Miles Traveled over Time for Passenger Vehicles,vmt,line,sourcecar
+vmt-line-overall,Vehicle Miles Traveled Overall over Time,vmt,line,overall
+vmt-multiline-overall,Vehicle Miles Traveled by Area over Time,vmt,multiline,overall
+vmt-multiline-sourcetype,Vehicle Miles Traveled by Vehicle Type over Time,vmt,multiline,sourcetype
+vmt-multiline-regclass,Vehicle Miles Traveled by Regulatory Class over Time,vmt,multiline,regclass
+vmt-multiline-fueltype,Vehicle Miles Traveled by Fuel Type over Time,vmt,multiline,fueltype
+vmt-multiline-roadtype,Vehicle Miles Traveled by Road Type over Time,vmt,multiline,roadtype
+vmt-map-lower,Vehicle Miles Traveled Mapped by Area,vmt,map,lower
+vmt-map-upper,Vehicle Miles Traveled in My Region,vmt,map,upper
+vmt-rank,Areas Ranked by Vehicle Miles Traveled,vmt,rank,profile
+vehicles-donut-overall,Vehicles Overall by Area,vehicles,donut,overall
+vehicles-donut-sourcetype,Vehicles by Vehicle Type,vehicles,donut,sourcetype
+vehicles-donut-fueltype,Vehicles by Fuel Type,vehicles,donut,fueltype
+vehicles-donut-roadtype,Vehicles by Road Type,vehicles,donut,roadtype
+vehicles-donut-regclass,Vehicles by Regulatory Class,vehicles,donut,regclass
+vehicles-line-sourcebus,Vehicles over Time for Buses,vehicles,line,sourcebus
+vehicles-line-sourcecar,Vehicles over Time for Passenger Vehicles,vehicles,line,sourcecar
+vehicles-line-overall,Vehicles Overall over Time,vehicles,line,overall
+vehicles-multiline-overall,Vehicles by Area over Time,vehicles,multiline,overall
+vehicles-multiline-sourcetype,Vehicles by Vehicle Type over Time,vehicles,multiline,sourcetype
+vehicles-multiline-regclass,Vehicles by Regulatory Class over Time,vehicles,multiline,regclass
+vehicles-multiline-fueltype,Vehicles by Fuel Type over Time,vehicles,multiline,fueltype
+vehicles-multiline-roadtype,Vehicles by Road Type over Time,vehicles,multiline,roadtype
+vehicles-map-lower,Vehicles Mapped by Area,vehicles,map,lower
+vehicles-map-upper,Vehicles in My Region,vehicles,map,upper
+vehicles-rank,Areas Ranked by Vehicles,vehicles,rank,profile
+starts-donut-overall,Vehicle Starts Overall by Area,starts,donut,overall
+starts-donut-sourcetype,Vehicle Starts by Vehicle Type,starts,donut,sourcetype
+starts-donut-fueltype,Vehicle Starts by Fuel Type,starts,donut,fueltype
+starts-donut-roadtype,Vehicle Starts by Road Type,starts,donut,roadtype
+starts-donut-regclass,Vehicle Starts by Regulatory Class,starts,donut,regclass
+starts-line-sourcebus,Vehicle Starts over Time for Buses,starts,line,sourcebus
+starts-line-sourcecar,Vehicle Starts over Time for Passenger Vehicle Starts,starts,line,sourcecar
+starts-line-overall,Vehicle Starts Overall over Time,starts,line,overall
+starts-multiline-overall,Vehicle Starts by Area over Time,starts,multiline,overall
+starts-multiline-sourcetype,Vehicle Starts by Vehicle Type over Time,starts,multiline,sourcetype
+starts-multiline-regclass,Vehicle Starts by Regulatory Class over Time,starts,multiline,regclass
+starts-multiline-fueltype,Vehicle Starts by Fuel Type over Time,starts,multiline,fueltype
+starts-multiline-roadtype,Vehicle Starts by Road Type over Time,starts,multiline,roadtype
+starts-map-lower,Vehicle Starts Mapped by Area,starts,map,lower
+starts-map-upper,Vehicle Starts in My Region,starts,map,upper
+starts-rank,Areas Ranked by Vehicle Starts,starts,rank,profile
+sourcehours-donut-overall,Time Driven Overall by Area,sourcehours,donut,overall
+sourcehours-donut-sourcetype,Time Driven by Vehicle Type,sourcehours,donut,sourcetype
+sourcehours-donut-fueltype,Time Driven by Fuel Type,sourcehours,donut,fueltype
+sourcehours-donut-roadtype,Time Driven by Road Type,sourcehours,donut,roadtype
+sourcehours-donut-regclass,Time Driven by Regulatory Class,sourcehours,donut,regclass
+sourcehours-line-sourcebus,Time Driven over Time for Buses,sourcehours,line,sourcebus
+sourcehours-line-sourcecar,Time Driven over Time for Passenger Time Driven,sourcehours,line,sourcecar
+sourcehours-line-overall,Time Driven Overall over Time,sourcehours,line,overall
+sourcehours-multiline-overall,Time Driven by Area over Time,sourcehours,multiline,overall
+sourcehours-multiline-sourcetype,Time Driven by Vehicle Type over Time,sourcehours,multiline,sourcetype
+sourcehours-multiline-regclass,Time Driven by Regulatory Class over Time,sourcehours,multiline,regclass
+sourcehours-multiline-fueltype,Time Driven by Fuel Type over Time,sourcehours,multiline,fueltype
+sourcehours-multiline-roadtype,Time Driven by Road Type over Time,sourcehours,multiline,roadtype
+sourcehours-map-lower,Time Driven Mapped by Area,sourcehours,map,lower
+sourcehours-map-upper,Time Driven in My Region,sourcehours,map,upper
+sourcehours-rank,Areas Ranked by Time Driven,sourcehours,rank,profile
+idlehours-donut-overall,Idling Overall by Area,idlehours,donut,overall
+idlehours-donut-sourcetype,Idling by Vehicle Type,idlehours,donut,sourcetype
+idlehours-donut-fueltype,Idling by Fuel Type,idlehours,donut,fueltype
+idlehours-donut-roadtype,Idling by Road Type,idlehours,donut,roadtype
+idlehours-donut-regclass,Idling by Regulatory Class,idlehours,donut,regclass
+idlehours-line-sourcebus,Idling over Time for Buses,idlehours,line,sourcebus
+idlehours-line-sourcecar,Idling over Time for Passenger Idling,idlehours,line,sourcecar
+idlehours-line-overall,Idling Overall over Time,idlehours,line,overall
+idlehours-multiline-overall,Idling by Area over Time,idlehours,multiline,overall
+idlehours-multiline-sourcetype,Idling by Vehicle Type over Time,idlehours,multiline,sourcetype
+idlehours-multiline-regclass,Idling by Regulatory Class over Time,idlehours,multiline,regclass
+idlehours-multiline-fueltype,Idling by Fuel Type over Time,idlehours,multiline,fueltype
+idlehours-multiline-roadtype,Idling by Road Type over Time,idlehours,multiline,roadtype
+idlehours-map-lower,Idling Mapped by Area,idlehours,map,lower
+idlehours-map-upper,Idling in My Region,idlehours,map,upper
+idlehours-rank,Areas Ranked by Idling,idlehours,rank,profile
+ratevehicles-donut-overall,Emissions Rate (per vehicle) Overall by Area,ratevehicles,donut,overall
+ratevehicles-donut-sourcetype,Emissions Rate (per vehicle) by Vehicle Type,ratevehicles,donut,sourcetype
+ratevehicles-donut-fueltype,Emissions Rate (per vehicle) by Fuel Type,ratevehicles,donut,fueltype
+ratevehicles-donut-roadtype,Emissions Rate (per vehicle) by Road Type,ratevehicles,donut,roadtype
+ratevehicles-donut-regclass,Emissions Rate (per vehicle) by Regulatory Class,ratevehicles,donut,regclass
+ratevehicles-line-sourcebus,Emissions Rate (per vehicle) over Time for Buses,ratevehicles,line,sourcebus
+ratevehicles-line-sourcecar,Emissions Rate (per vehicle) over Time for Passenger Vehicles,ratevehicles,line,sourcecar
+ratevehicles-line-overall,Emissions Rate (per vehicle) Overall over Time,ratevehicles,line,overall
+ratevehicles-multiline-overall,Emissions Rate (per vehicle) by Area over Time,ratevehicles,multiline,overall
+ratevehicles-multiline-sourcetype,Emissions Rate (per vehicle) by Vehicle Type over Time,ratevehicles,multiline,sourcetype
+ratevehicles-multiline-regclass,Emissions Rate (per vehicle) by Regulatory Class over Time,ratevehicles,multiline,regclass
+ratevehicles-multiline-fueltype,Emissions Rate (per vehicle) by Fuel Type over Time,ratevehicles,multiline,fueltype
+ratevehicles-multiline-roadtype,Emissions Rate (per vehicle) by Road Type over Time,ratevehicles,multiline,roadtype
+ratevehicles-map-lower,Emissions Rate (per vehicle) Mapped by Area,ratevehicles,map,lower
+ratevehicles-map-upper,Emissions Rate (per vehicle) in My Region,ratevehicles,map,upper
+ratevehicles-rank,Areas Ranked by Emissions Rate (per vehicle),ratevehicles,rank,profile
+ratevmt-donut-overall,Emissions Rate (per mile) Overall by Area,ratevmt,donut,overall
+ratevmt-donut-sourcetype,Emissions Rate (per mile) by Vehicle Type,ratevmt,donut,sourcetype
+ratevmt-donut-fueltype,Emissions Rate (per mile) by Fuel Type,ratevmt,donut,fueltype
+ratevmt-donut-roadtype,Emissions Rate (per mile) by Road Type,ratevmt,donut,roadtype
+ratevmt-donut-regclass,Emissions Rate (per mile) by Regulatory Class,ratevmt,donut,regclass
+ratevmt-line-sourcebus,Emissions Rate (per mile) over Time for Buses,ratevmt,line,sourcebus
+ratevmt-line-sourcecar,Emissions Rate (per mile) over Time for Passenger Vehicles,ratevmt,line,sourcecar
+ratevmt-line-overall,Emissions Rate (per mile) Overall over Time,ratevmt,line,overall
+ratevmt-multiline-overall,Emissions Rate (per mile) by Area over Time,ratevmt,multiline,overall
+ratevmt-multiline-sourcetype,Emissions Rate (per mile) by Vehicle Type over Time,ratevmt,multiline,sourcetype
+ratevmt-multiline-regclass,Emissions Rate (per mile) by Regulatory Class over Time,ratevmt,multiline,regclass
+ratevmt-multiline-fueltype,Emissions Rate (per mile) by Fuel Type over Time,ratevmt,multiline,fueltype
+ratevmt-multiline-roadtype,Emissions Rate (per mile) by Road Type over Time,ratevmt,multiline,roadtype
+ratevmt-map-lower,Emissions Rate (per mile) Mapped by Area,ratevmt,map,lower
+ratevmt-map-upper,Emissions Rate (per mile) in My Region,ratevmt,map,upper
+ratevmt-rank,Areas Ranked by Emissions Rate (per mile),ratevmt,rank,profile
+ratepop-donut-overall,Emissions Rate (per capita) Overall by Area,ratepop,donut,overall
+ratepop-donut-sourcetype,Emissions Rate (per capita) by Vehicle Type,ratepop,donut,sourcetype
+ratepop-donut-fueltype,Emissions Rate (per capita) by Fuel Type,ratepop,donut,fueltype
+ratepop-donut-roadtype,Emissions Rate (per capita) by Road Type,ratepop,donut,roadtype
+ratepop-donut-regclass,Emissions Rate (per capita) by Regulatory Class,ratepop,donut,regclass
+ratepop-line-sourcebus,Emissions Rate (per capita) over Time for Buses,ratepop,line,sourcebus
+ratepop-line-sourcecar,Emissions Rate (per capita) over Time for Passenger Vehicles,ratepop,line,sourcecar
+ratepop-line-overall,Emissions Rate (per capita) Overall over Time,ratepop,line,overall
+ratepop-multiline-overall,Emissions Rate (per capita) by Area over Time,ratepop,multiline,overall
+ratepop-multiline-sourcetype,Emissions Rate (per capita) by Vehicle Type over Time,ratepop,multiline,sourcetype
+ratepop-multiline-regclass,Emissions Rate (per capita) by Regulatory Class over Time,ratepop,multiline,regclass
+ratepop-multiline-fueltype,Emissions Rate (per capita) by Fuel Type over Time,ratepop,multiline,fueltype
+ratepop-multiline-roadtype,Emissions Rate (per capita) by Road Type over Time,ratepop,multiline,roadtype
+ratepop-map-lower,Emissions Rate (per capita) Mapped by Area,ratepop,map,lower
+ratepop-map-upper,Emissions Rate (per capita) in My Region,ratepop,map,upper
+ratepop-rank,Areas Ranked by Emissions Rate (per capita),ratepop,rank,profile
+pop-donut-overall,Population Overall by Area,pop,donut,overall
+pop-donut-sourcetype,Population by Vehicle Type,pop,donut,sourcetype
+pop-donut-fueltype,Population by Fuel Type,pop,donut,fueltype
+pop-donut-roadtype,Population by Road Type,pop,donut,roadtype
+pop-donut-regclass,Population by Regulatory Class,pop,donut,regclass
+pop-line-sourcebus,Population over Time for Buses,pop,line,sourcebus
+pop-line-sourcecar,Population over Time for Passenger Vehicles,pop,line,sourcecar
+pop-line-overall,Population Overall over Time,pop,line,overall
+pop-multiline-overall,Population by Area over Time,pop,multiline,overall
+pop-multiline-sourcetype,Population by Vehicle Type over Time,pop,multiline,sourcetype
+pop-multiline-regclass,Population by Regulatory Class over Time,pop,multiline,regclass
+pop-multiline-fueltype,Population by Fuel Type over Time,pop,multiline,fueltype
+pop-multiline-roadtype,Population by Road Type over Time,pop,multiline,roadtype
+pop-map-lower,Population Mapped by Area,pop,map,lower
+pop-map-upper,Population in My Region,pop,map,upper
+pop-rank,Areas Ranked by Population,pop,rank,profile
+hoteld-donut-overall,Hotelling (Diesel Aux) Overall by Area,hoteld,donut,overall
+hoteld-donut-sourcetype,Hotelling (Diesel Aux) by Vehicle Type,hoteld,donut,sourcetype
+hoteld-donut-fueltype,Hotelling (Diesel Aux) by Fuel Type,hoteld,donut,fueltype
+hoteld-donut-roadtype,Hotelling (Diesel Aux) by Road Type,hoteld,donut,roadtype
+hoteld-donut-regclass,Hotelling (Diesel Aux) by Regulatory Class,hoteld,donut,regclass
+hoteld-line-sourcebus,Hotelling (Diesel Aux) over Time for Buses,hoteld,line,sourcebus
+hoteld-line-sourcecar,Hotelling (Diesel Aux) over Time for Passenger Vehicles,hoteld,line,sourcecar
+hoteld-line-overall,Hotelling (Diesel Aux) Overall over Time,hoteld,line,overall
+hoteld-multiline-overall,Hotelling (Diesel Aux) by Area over Time,hoteld,multiline,overall
+hoteld-multiline-sourcetype,Hotelling (Diesel Aux) by Vehicle Type over Time,hoteld,multiline,sourcetype
+hoteld-multiline-regclass,Hotelling (Diesel Aux) by Regulatory Class over Time,hoteld,multiline,regclass
+hoteld-multiline-fueltype,Hotelling (Diesel Aux) by Fuel Type over Time,hoteld,multiline,fueltype
+hoteld-multiline-roadtype,Hotelling (Diesel Aux) by Road Type over Time,hoteld,multiline,roadtype
+hoteld-map-lower,Hotelling (Diesel Aux) Mapped by Area,hoteld,map,lower
+hoteld-map-upper,Hotelling (Diesel Aux) in My Region,hoteld,map,upper
+hoteld-rank,Areas Ranked by Hotelling (Diesel Aux),hoteld,rank,profile
+hotelo-donut-overall,Hotelling (Engines Off) Overall by Area,hotelo,donut,overall
+hotelo-donut-sourcetype,Hotelling (Engines Off) by Vehicle Type,hotelo,donut,sourcetype
+hotelo-donut-fueltype,Hotelling (Engines Off) by Fuel Type,hotelo,donut,fueltype
+hotelo-donut-roadtype,Hotelling (Engines Off) by Road Type,hotelo,donut,roadtype
+hotelo-donut-regclass,Hotelling (Engines Off) by Regulatory Class,hotelo,donut,regclass
+hotelo-line-sourcebus,Hotelling (Engines Off) over Time for Buses,hotelo,line,sourcebus
+hotelo-line-sourcecar,Hotelling (Engines Off) over Time for Passenger Vehicles,hotelo,line,sourcecar
+hotelo-line-overall,Hotelling (Engines Off) Overall over Time,hotelo,line,overall
+hotelo-multiline-overall,Hotelling (Engines Off) by Area over Time,hotelo,multiline,overall
+hotelo-multiline-sourcetype,Hotelling (Engines Off) by Vehicle Type over Time,hotelo,multiline,sourcetype
+hotelo-multiline-regclass,Hotelling (Engines Off) by Regulatory Class over Time,hotelo,multiline,regclass
+hotelo-multiline-fueltype,Hotelling (Engines Off) by Fuel Type over Time,hotelo,multiline,fueltype
+hotelo-multiline-roadtype,Hotelling (Engines Off) by Road Type over Time,hotelo,multiline,roadtype
+hotelo-map-lower,Hotelling (Engines Off) Mapped by Area,hotelo,map,lower
+hotelo-map-upper,Hotelling (Engines Off) in My Region,hotelo,map,upper
+hotelo-rank,Areas Ranked by Hotelling (Engines Off),hotelo,rank,profile
+profile,Emissions Profile in My Area,profile,profile,profile
